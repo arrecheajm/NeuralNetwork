@@ -525,7 +525,9 @@ Epoch 96: 9656 / 10000
 Epoch 97: 9657 / 10000
 Epoch 98: 9658 / 10000
 Epoch 99: 9657 / 10000
-End Time: 23:42:51.793253Network Details:
+End Time: 23:42:51.793253
+
+Network Details:
 
 Number of Layers: 3
 Number of Neurons in Hidden Layer: 100
@@ -1052,7 +1054,9 @@ Epoch 96: 8635 / 10000
 Epoch 97: 8627 / 10000
 Epoch 98: 8626 / 10000
 Epoch 99: 8628 / 10000
-End Time: 01:18:32.161861Network Details:
+End Time: 01:18:32.161861
+
+Network Details:
 
 Number of Layers: 3
 Number of Neurons in Hidden Layer: 100
