@@ -399,7 +399,9 @@ Epoch 71: 9641 / 10000
 Epoch 72: 9645 / 10000
 Epoch 73: 9643 / 10000
 Epoch 74: 9646 / 10000
-End Time: 17:54:06.502092Network Details:
+End Time: 17:54:06.502092
+
+Network Details:
 
 Network Structure: [784, 60, 40, 10]
 Number of Epochs: 75
@@ -800,7 +802,9 @@ Epoch 71: 9631 / 10000
 Epoch 72: 9612 / 10000
 Epoch 73: 9622 / 10000
 Epoch 74: 9605 / 10000
-End Time: 18:53:08.266776Network Details:
+End Time: 18:53:08.266776
+
+Network Details:
 
 Network Structure: [784, 75, 25, 10]
 Number of Epochs: 75
@@ -1201,7 +1205,9 @@ Epoch 71: 9648 / 10000
 Epoch 72: 9658 / 10000
 Epoch 73: 9649 / 10000
 Epoch 74: 9667 / 10000
-End Time: 19:59:51.990165Network Details:
+End Time: 19:59:51.99016
+
+5Network Details:
 
 Network Structure: [784, 50, 30, 20, 10]
 Number of Epochs: 75
@@ -1602,7 +1608,9 @@ Epoch 71: 9613 / 10000
 Epoch 72: 9624 / 10000
 Epoch 73: 9636 / 10000
 Epoch 74: 9631 / 10000
-End Time: 20:59:53.966341Network Details:
+End Time: 20:59:53.966341
+
+Network Details:
 
 Network Structure: [784, 25, 25, 25, 25, 10]
 Number of Epochs: 75
