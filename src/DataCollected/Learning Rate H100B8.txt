@@ -1,0 +1,5766 @@
+
+
+Set: 0
+		Network Details
+Network layout: [784, 100, 10]
+Number of Epochs: 75
+Batch Size: 8
+Learning Rate: 0.1
+Number of Runs: 5
+
+Iteration: 0
+Start Time:2018-02-17 09:55:11.075886
+Epoch 0:
+	Validation Data: 2671 / 10000
+	Test Data: 2755 / 10000
+Epoch 1:
+	Validation Data: 3891 / 10000
+	Test Data: 3992 / 10000
+Epoch 2:
+	Validation Data: 4281 / 10000
+	Test Data: 4386 / 10000
+Epoch 3:
+	Validation Data: 4458 / 10000
+	Test Data: 4546 / 10000
+Epoch 4:
+	Validation Data: 4579 / 10000
+	Test Data: 4652 / 10000
+Epoch 5:
+	Validation Data: 4625 / 10000
+	Test Data: 4686 / 10000
+Epoch 6:
+	Validation Data: 4642 / 10000
+	Test Data: 4715 / 10000
+Epoch 7:
+	Validation Data: 4667 / 10000
+	Test Data: 4731 / 10000
+Epoch 8:
+	Validation Data: 4686 / 10000
+	Test Data: 4762 / 10000
+Epoch 9:
+	Validation Data: 4691 / 10000
+	Test Data: 4765 / 10000
+Epoch 10:
+	Validation Data: 4701 / 10000
+	Test Data: 4778 / 10000
+Epoch 11:
+	Validation Data: 4707 / 10000
+	Test Data: 4786 / 10000
+Epoch 12:
+	Validation Data: 4725 / 10000
+	Test Data: 4795 / 10000
+Epoch 13:
+	Validation Data: 4723 / 10000
+	Test Data: 4799 / 10000
+Epoch 14:
+	Validation Data: 4729 / 10000
+	Test Data: 4808 / 10000
+Epoch 15:
+	Validation Data: 4732 / 10000
+	Test Data: 4806 / 10000
+Epoch 16:
+	Validation Data: 4738 / 10000
+	Test Data: 4819 / 10000
+Epoch 17:
+	Validation Data: 4749 / 10000
+	Test Data: 4825 / 10000
+Epoch 18:
+	Validation Data: 4753 / 10000
+	Test Data: 4826 / 10000
+Epoch 19:
+	Validation Data: 4759 / 10000
+	Test Data: 4831 / 10000
+Epoch 20:
+	Validation Data: 4765 / 10000
+	Test Data: 4837 / 10000
+Epoch 21:
+	Validation Data: 4768 / 10000
+	Test Data: 4842 / 10000
+Epoch 22:
+	Validation Data: 4770 / 10000
+	Test Data: 4843 / 10000
+Epoch 23:
+	Validation Data: 4776 / 10000
+	Test Data: 4843 / 10000
+Epoch 24:
+	Validation Data: 4787 / 10000
+	Test Data: 4855 / 10000
+Epoch 25:
+	Validation Data: 4784 / 10000
+	Test Data: 4851 / 10000
+Epoch 26:
+	Validation Data: 4792 / 10000
+	Test Data: 4856 / 10000
+Epoch 27:
+	Validation Data: 4794 / 10000
+	Test Data: 4864 / 10000
+Epoch 28:
+	Validation Data: 4802 / 10000
+	Test Data: 4863 / 10000
+Epoch 29:
+	Validation Data: 4822 / 10000
+	Test Data: 4876 / 10000
+Epoch 30:
+	Validation Data: 4830 / 10000
+	Test Data: 4878 / 10000
+Epoch 31:
+	Validation Data: 4851 / 10000
+	Test Data: 4895 / 10000
+Epoch 32:
+	Validation Data: 4901 / 10000
+	Test Data: 4940 / 10000
+Epoch 33:
+	Validation Data: 5706 / 10000
+	Test Data: 5665 / 10000
+Epoch 34:
+	Validation Data: 5753 / 10000
+	Test Data: 5742 / 10000
+Epoch 35:
+	Validation Data: 5768 / 10000
+	Test Data: 5767 / 10000
+Epoch 36:
+	Validation Data: 5772 / 10000
+	Test Data: 5779 / 10000
+Epoch 37:
+	Validation Data: 5778 / 10000
+	Test Data: 5780 / 10000
+Epoch 38:
+	Validation Data: 5791 / 10000
+	Test Data: 5789 / 10000
+Epoch 39:
+	Validation Data: 5793 / 10000
+	Test Data: 5789 / 10000
+Epoch 40:
+	Validation Data: 5804 / 10000
+	Test Data: 5797 / 10000
+Epoch 41:
+	Validation Data: 5800 / 10000
+	Test Data: 5801 / 10000
+Epoch 42:
+	Validation Data: 5809 / 10000
+	Test Data: 5799 / 10000
+Epoch 43:
+	Validation Data: 5814 / 10000
+	Test Data: 5809 / 10000
+Epoch 44:
+	Validation Data: 5819 / 10000
+	Test Data: 5813 / 10000
+Epoch 45:
+	Validation Data: 5816 / 10000
+	Test Data: 5816 / 10000
+Epoch 46:
+	Validation Data: 5822 / 10000
+	Test Data: 5818 / 10000
+Epoch 47:
+	Validation Data: 5827 / 10000
+	Test Data: 5822 / 10000
+Epoch 48:
+	Validation Data: 5829 / 10000
+	Test Data: 5822 / 10000
+Epoch 49:
+	Validation Data: 5828 / 10000
+	Test Data: 5822 / 10000
+Epoch 50:
+	Validation Data: 5833 / 10000
+	Test Data: 5822 / 10000
+Epoch 51:
+	Validation Data: 5828 / 10000
+	Test Data: 5829 / 10000
+Epoch 52:
+	Validation Data: 5830 / 10000
+	Test Data: 5827 / 10000
+Epoch 53:
+	Validation Data: 5836 / 10000
+	Test Data: 5827 / 10000
+Epoch 54:
+	Validation Data: 5835 / 10000
+	Test Data: 5829 / 10000
+Epoch 55:
+	Validation Data: 5839 / 10000
+	Test Data: 5831 / 10000
+Epoch 56:
+	Validation Data: 5831 / 10000
+	Test Data: 5828 / 10000
+Epoch 57:
+	Validation Data: 5842 / 10000
+	Test Data: 5833 / 10000
+Epoch 58:
+	Validation Data: 5841 / 10000
+	Test Data: 5838 / 10000
+Epoch 59:
+	Validation Data: 5847 / 10000
+	Test Data: 5844 / 10000
+Epoch 60:
+	Validation Data: 5850 / 10000
+	Test Data: 5841 / 10000
+Epoch 61:
+	Validation Data: 5851 / 10000
+	Test Data: 5840 / 10000
+Epoch 62:
+	Validation Data: 5853 / 10000
+	Test Data: 5842 / 10000
+Epoch 63:
+	Validation Data: 5851 / 10000
+	Test Data: 5846 / 10000
+Epoch 64:
+	Validation Data: 5850 / 10000
+	Test Data: 5849 / 10000
+Epoch 65:
+	Validation Data: 5849 / 10000
+	Test Data: 5848 / 10000
+Epoch 66:
+	Validation Data: 5852 / 10000
+	Test Data: 5853 / 10000
+Epoch 67:
+	Validation Data: 5856 / 10000
+	Test Data: 5856 / 10000
+Epoch 68:
+	Validation Data: 5853 / 10000
+	Test Data: 5855 / 10000
+Epoch 69:
+	Validation Data: 5858 / 10000
+	Test Data: 5858 / 10000
+Epoch 70:
+	Validation Data: 5853 / 10000
+	Test Data: 5859 / 10000
+Epoch 71:
+	Validation Data: 5860 / 10000
+	Test Data: 5856 / 10000
+Epoch 72:
+	Validation Data: 5861 / 10000
+	Test Data: 5859 / 10000
+Epoch 73:
+	Validation Data: 5861 / 10000
+	Test Data: 5857 / 10000
+Epoch 74:
+	Validation Data: 5859 / 10000
+	Test Data: 5862 / 10000
+End Time:2018-02-17 10:09:44.954471
+
+Iteration: 1
+Start Time:2018-02-17 10:09:44.954524
+Epoch 0:
+	Validation Data: 4492 / 10000
+	Test Data: 4572 / 10000
+Epoch 1:
+	Validation Data: 5460 / 10000
+	Test Data: 5478 / 10000
+Epoch 2:
+	Validation Data: 7028 / 10000
+	Test Data: 7035 / 10000
+Epoch 3:
+	Validation Data: 7244 / 10000
+	Test Data: 7218 / 10000
+Epoch 4:
+	Validation Data: 7350 / 10000
+	Test Data: 7328 / 10000
+Epoch 5:
+	Validation Data: 7403 / 10000
+	Test Data: 7383 / 10000
+Epoch 6:
+	Validation Data: 7437 / 10000
+	Test Data: 7442 / 10000
+Epoch 7:
+	Validation Data: 7472 / 10000
+	Test Data: 7465 / 10000
+Epoch 8:
+	Validation Data: 7502 / 10000
+	Test Data: 7491 / 10000
+Epoch 9:
+	Validation Data: 7528 / 10000
+	Test Data: 7513 / 10000
+Epoch 10:
+	Validation Data: 7550 / 10000
+	Test Data: 7541 / 10000
+Epoch 11:
+	Validation Data: 7577 / 10000
+	Test Data: 7560 / 10000
+Epoch 12:
+	Validation Data: 7627 / 10000
+	Test Data: 7620 / 10000
+Epoch 13:
+	Validation Data: 7715 / 10000
+	Test Data: 7685 / 10000
+Epoch 14:
+	Validation Data: 8160 / 10000
+	Test Data: 8135 / 10000
+Epoch 15:
+	Validation Data: 8331 / 10000
+	Test Data: 8268 / 10000
+Epoch 16:
+	Validation Data: 8356 / 10000
+	Test Data: 8319 / 10000
+Epoch 17:
+	Validation Data: 8411 / 10000
+	Test Data: 8366 / 10000
+Epoch 18:
+	Validation Data: 8510 / 10000
+	Test Data: 8458 / 10000
+Epoch 19:
+	Validation Data: 9010 / 10000
+	Test Data: 9024 / 10000
+Epoch 20:
+	Validation Data: 9140 / 10000
+	Test Data: 9116 / 10000
+Epoch 21:
+	Validation Data: 9197 / 10000
+	Test Data: 9165 / 10000
+Epoch 22:
+	Validation Data: 9241 / 10000
+	Test Data: 9203 / 10000
+Epoch 23:
+	Validation Data: 9262 / 10000
+	Test Data: 9228 / 10000
+Epoch 24:
+	Validation Data: 9287 / 10000
+	Test Data: 9241 / 10000
+Epoch 25:
+	Validation Data: 9294 / 10000
+	Test Data: 9265 / 10000
+Epoch 26:
+	Validation Data: 9303 / 10000
+	Test Data: 9287 / 10000
+Epoch 27:
+	Validation Data: 9304 / 10000
+	Test Data: 9295 / 10000
+Epoch 28:
+	Validation Data: 9331 / 10000
+	Test Data: 9314 / 10000
+Epoch 29:
+	Validation Data: 9344 / 10000
+	Test Data: 9316 / 10000
+Epoch 30:
+	Validation Data: 9346 / 10000
+	Test Data: 9325 / 10000
+Epoch 31:
+	Validation Data: 9354 / 10000
+	Test Data: 9327 / 10000
+Epoch 32:
+	Validation Data: 9365 / 10000
+	Test Data: 9345 / 10000
+Epoch 33:
+	Validation Data: 9380 / 10000
+	Test Data: 9341 / 10000
+Epoch 34:
+	Validation Data: 9372 / 10000
+	Test Data: 9348 / 10000
+Epoch 35:
+	Validation Data: 9376 / 10000
+	Test Data: 9354 / 10000
+Epoch 36:
+	Validation Data: 9380 / 10000
+	Test Data: 9352 / 10000
+Epoch 37:
+	Validation Data: 9395 / 10000
+	Test Data: 9357 / 10000
+Epoch 38:
+	Validation Data: 9395 / 10000
+	Test Data: 9376 / 10000
+Epoch 39:
+	Validation Data: 9411 / 10000
+	Test Data: 9378 / 10000
+Epoch 40:
+	Validation Data: 9411 / 10000
+	Test Data: 9384 / 10000
+Epoch 41:
+	Validation Data: 9414 / 10000
+	Test Data: 9388 / 10000
+Epoch 42:
+	Validation Data: 9424 / 10000
+	Test Data: 9389 / 10000
+Epoch 43:
+	Validation Data: 9428 / 10000
+	Test Data: 9391 / 10000
+Epoch 44:
+	Validation Data: 9423 / 10000
+	Test Data: 9402 / 10000
+Epoch 45:
+	Validation Data: 9420 / 10000
+	Test Data: 9400 / 10000
+Epoch 46:
+	Validation Data: 9424 / 10000
+	Test Data: 9406 / 10000
+Epoch 47:
+	Validation Data: 9427 / 10000
+	Test Data: 9410 / 10000
+Epoch 48:
+	Validation Data: 9445 / 10000
+	Test Data: 9412 / 10000
+Epoch 49:
+	Validation Data: 9443 / 10000
+	Test Data: 9414 / 10000
+Epoch 50:
+	Validation Data: 9444 / 10000
+	Test Data: 9411 / 10000
+Epoch 51:
+	Validation Data: 9441 / 10000
+	Test Data: 9428 / 10000
+Epoch 52:
+	Validation Data: 9450 / 10000
+	Test Data: 9420 / 10000
+Epoch 53:
+	Validation Data: 9449 / 10000
+	Test Data: 9428 / 10000
+Epoch 54:
+	Validation Data: 9455 / 10000
+	Test Data: 9429 / 10000
+Epoch 55:
+	Validation Data: 9450 / 10000
+	Test Data: 9445 / 10000
+Epoch 56:
+	Validation Data: 9456 / 10000
+	Test Data: 9439 / 10000
+Epoch 57:
+	Validation Data: 9456 / 10000
+	Test Data: 9442 / 10000
+Epoch 58:
+	Validation Data: 9459 / 10000
+	Test Data: 9446 / 10000
+Epoch 59:
+	Validation Data: 9463 / 10000
+	Test Data: 9451 / 10000
+Epoch 60:
+	Validation Data: 9461 / 10000
+	Test Data: 9449 / 10000
+Epoch 61:
+	Validation Data: 9471 / 10000
+	Test Data: 9446 / 10000
+Epoch 62:
+	Validation Data: 9475 / 10000
+	Test Data: 9439 / 10000
+Epoch 63:
+	Validation Data: 9475 / 10000
+	Test Data: 9458 / 10000
+Epoch 64:
+	Validation Data: 9473 / 10000
+	Test Data: 9449 / 10000
+Epoch 65:
+	Validation Data: 9470 / 10000
+	Test Data: 9450 / 10000
+Epoch 66:
+	Validation Data: 9471 / 10000
+	Test Data: 9448 / 10000
+Epoch 67:
+	Validation Data: 9479 / 10000
+	Test Data: 9460 / 10000
+Epoch 68:
+	Validation Data: 9477 / 10000
+	Test Data: 9467 / 10000
+Epoch 69:
+	Validation Data: 9482 / 10000
+	Test Data: 9462 / 10000
+Epoch 70:
+	Validation Data: 9479 / 10000
+	Test Data: 9457 / 10000
+Epoch 71:
+	Validation Data: 9488 / 10000
+	Test Data: 9457 / 10000
+Epoch 72:
+	Validation Data: 9490 / 10000
+	Test Data: 9469 / 10000
+Epoch 73:
+	Validation Data: 9491 / 10000
+	Test Data: 9462 / 10000
+Epoch 74:
+	Validation Data: 9491 / 10000
+	Test Data: 9462 / 10000
+End Time:2018-02-17 10:24:15.450656
+
+Iteration: 2
+Start Time:2018-02-17 10:24:15.450706
+Epoch 0:
+	Validation Data: 4817 / 10000
+	Test Data: 4737 / 10000
+Epoch 1:
+	Validation Data: 5537 / 10000
+	Test Data: 5499 / 10000
+Epoch 2:
+	Validation Data: 5714 / 10000
+	Test Data: 5673 / 10000
+Epoch 3:
+	Validation Data: 6508 / 10000
+	Test Data: 6440 / 10000
+Epoch 4:
+	Validation Data: 6663 / 10000
+	Test Data: 6611 / 10000
+Epoch 5:
+	Validation Data: 6926 / 10000
+	Test Data: 6856 / 10000
+Epoch 6:
+	Validation Data: 7299 / 10000
+	Test Data: 7245 / 10000
+Epoch 7:
+	Validation Data: 7424 / 10000
+	Test Data: 7401 / 10000
+Epoch 8:
+	Validation Data: 7486 / 10000
+	Test Data: 7465 / 10000
+Epoch 9:
+	Validation Data: 7524 / 10000
+	Test Data: 7495 / 10000
+Epoch 10:
+	Validation Data: 7542 / 10000
+	Test Data: 7538 / 10000
+Epoch 11:
+	Validation Data: 7571 / 10000
+	Test Data: 7556 / 10000
+Epoch 12:
+	Validation Data: 7581 / 10000
+	Test Data: 7554 / 10000
+Epoch 13:
+	Validation Data: 7599 / 10000
+	Test Data: 7559 / 10000
+Epoch 14:
+	Validation Data: 7620 / 10000
+	Test Data: 7577 / 10000
+Epoch 15:
+	Validation Data: 7629 / 10000
+	Test Data: 7589 / 10000
+Epoch 16:
+	Validation Data: 7638 / 10000
+	Test Data: 7608 / 10000
+Epoch 17:
+	Validation Data: 7635 / 10000
+	Test Data: 7610 / 10000
+Epoch 18:
+	Validation Data: 7643 / 10000
+	Test Data: 7620 / 10000
+Epoch 19:
+	Validation Data: 7662 / 10000
+	Test Data: 7623 / 10000
+Epoch 20:
+	Validation Data: 7665 / 10000
+	Test Data: 7626 / 10000
+Epoch 21:
+	Validation Data: 7670 / 10000
+	Test Data: 7639 / 10000
+Epoch 22:
+	Validation Data: 7679 / 10000
+	Test Data: 7648 / 10000
+Epoch 23:
+	Validation Data: 7684 / 10000
+	Test Data: 7655 / 10000
+Epoch 24:
+	Validation Data: 7685 / 10000
+	Test Data: 7666 / 10000
+Epoch 25:
+	Validation Data: 7693 / 10000
+	Test Data: 7668 / 10000
+Epoch 26:
+	Validation Data: 7698 / 10000
+	Test Data: 7675 / 10000
+Epoch 27:
+	Validation Data: 7717 / 10000
+	Test Data: 7680 / 10000
+Epoch 28:
+	Validation Data: 7731 / 10000
+	Test Data: 7693 / 10000
+Epoch 29:
+	Validation Data: 7751 / 10000
+	Test Data: 7724 / 10000
+Epoch 30:
+	Validation Data: 7914 / 10000
+	Test Data: 7864 / 10000
+Epoch 31:
+	Validation Data: 8213 / 10000
+	Test Data: 8187 / 10000
+Epoch 32:
+	Validation Data: 8279 / 10000
+	Test Data: 8251 / 10000
+Epoch 33:
+	Validation Data: 8385 / 10000
+	Test Data: 8323 / 10000
+Epoch 34:
+	Validation Data: 8438 / 10000
+	Test Data: 8387 / 10000
+Epoch 35:
+	Validation Data: 8468 / 10000
+	Test Data: 8422 / 10000
+Epoch 36:
+	Validation Data: 8479 / 10000
+	Test Data: 8436 / 10000
+Epoch 37:
+	Validation Data: 8483 / 10000
+	Test Data: 8437 / 10000
+Epoch 38:
+	Validation Data: 8492 / 10000
+	Test Data: 8449 / 10000
+Epoch 39:
+	Validation Data: 8495 / 10000
+	Test Data: 8452 / 10000
+Epoch 40:
+	Validation Data: 8505 / 10000
+	Test Data: 8465 / 10000
+Epoch 41:
+	Validation Data: 8519 / 10000
+	Test Data: 8468 / 10000
+Epoch 42:
+	Validation Data: 8532 / 10000
+	Test Data: 8468 / 10000
+Epoch 43:
+	Validation Data: 8554 / 10000
+	Test Data: 8496 / 10000
+Epoch 44:
+	Validation Data: 8607 / 10000
+	Test Data: 8552 / 10000
+Epoch 45:
+	Validation Data: 9243 / 10000
+	Test Data: 9246 / 10000
+Epoch 46:
+	Validation Data: 9328 / 10000
+	Test Data: 9324 / 10000
+Epoch 47:
+	Validation Data: 9350 / 10000
+	Test Data: 9364 / 10000
+Epoch 48:
+	Validation Data: 9364 / 10000
+	Test Data: 9379 / 10000
+Epoch 49:
+	Validation Data: 9384 / 10000
+	Test Data: 9385 / 10000
+Epoch 50:
+	Validation Data: 9384 / 10000
+	Test Data: 9393 / 10000
+Epoch 51:
+	Validation Data: 9393 / 10000
+	Test Data: 9402 / 10000
+Epoch 52:
+	Validation Data: 9411 / 10000
+	Test Data: 9411 / 10000
+Epoch 53:
+	Validation Data: 9419 / 10000
+	Test Data: 9417 / 10000
+Epoch 54:
+	Validation Data: 9423 / 10000
+	Test Data: 9420 / 10000
+Epoch 55:
+	Validation Data: 9423 / 10000
+	Test Data: 9415 / 10000
+Epoch 56:
+	Validation Data: 9426 / 10000
+	Test Data: 9429 / 10000
+Epoch 57:
+	Validation Data: 9424 / 10000
+	Test Data: 9431 / 10000
+Epoch 58:
+	Validation Data: 9445 / 10000
+	Test Data: 9431 / 10000
+Epoch 59:
+	Validation Data: 9457 / 10000
+	Test Data: 9442 / 10000
+Epoch 60:
+	Validation Data: 9454 / 10000
+	Test Data: 9447 / 10000
+Epoch 61:
+	Validation Data: 9454 / 10000
+	Test Data: 9446 / 10000
+Epoch 62:
+	Validation Data: 9455 / 10000
+	Test Data: 9459 / 10000
+Epoch 63:
+	Validation Data: 9457 / 10000
+	Test Data: 9456 / 10000
+Epoch 64:
+	Validation Data: 9467 / 10000
+	Test Data: 9453 / 10000
+Epoch 65:
+	Validation Data: 9468 / 10000
+	Test Data: 9462 / 10000
+Epoch 66:
+	Validation Data: 9459 / 10000
+	Test Data: 9461 / 10000
+Epoch 67:
+	Validation Data: 9475 / 10000
+	Test Data: 9463 / 10000
+Epoch 68:
+	Validation Data: 9464 / 10000
+	Test Data: 9473 / 10000
+Epoch 69:
+	Validation Data: 9479 / 10000
+	Test Data: 9479 / 10000
+Epoch 70:
+	Validation Data: 9480 / 10000
+	Test Data: 9470 / 10000
+Epoch 71:
+	Validation Data: 9485 / 10000
+	Test Data: 9474 / 10000
+Epoch 72:
+	Validation Data: 9487 / 10000
+	Test Data: 9481 / 10000
+Epoch 73:
+	Validation Data: 9491 / 10000
+	Test Data: 9481 / 10000
+Epoch 74:
+	Validation Data: 9489 / 10000
+	Test Data: 9482 / 10000
+End Time:2018-02-17 10:38:53.624695
+
+Iteration: 3
+Start Time:2018-02-17 10:38:53.624747
+Epoch 0:
+	Validation Data: 4992 / 10000
+	Test Data: 4969 / 10000
+Epoch 1:
+	Validation Data: 5680 / 10000
+	Test Data: 5641 / 10000
+Epoch 2:
+	Validation Data: 5915 / 10000
+	Test Data: 5913 / 10000
+Epoch 3:
+	Validation Data: 6419 / 10000
+	Test Data: 6435 / 10000
+Epoch 4:
+	Validation Data: 6508 / 10000
+	Test Data: 6529 / 10000
+Epoch 5:
+	Validation Data: 6711 / 10000
+	Test Data: 6706 / 10000
+Epoch 6:
+	Validation Data: 7094 / 10000
+	Test Data: 7052 / 10000
+Epoch 7:
+	Validation Data: 7337 / 10000
+	Test Data: 7298 / 10000
+Epoch 8:
+	Validation Data: 7468 / 10000
+	Test Data: 7474 / 10000
+Epoch 9:
+	Validation Data: 7570 / 10000
+	Test Data: 7564 / 10000
+Epoch 10:
+	Validation Data: 7650 / 10000
+	Test Data: 7653 / 10000
+Epoch 11:
+	Validation Data: 7798 / 10000
+	Test Data: 7797 / 10000
+Epoch 12:
+	Validation Data: 8027 / 10000
+	Test Data: 8007 / 10000
+Epoch 13:
+	Validation Data: 8133 / 10000
+	Test Data: 8136 / 10000
+Epoch 14:
+	Validation Data: 8198 / 10000
+	Test Data: 8197 / 10000
+Epoch 15:
+	Validation Data: 8238 / 10000
+	Test Data: 8250 / 10000
+Epoch 16:
+	Validation Data: 8273 / 10000
+	Test Data: 8273 / 10000
+Epoch 17:
+	Validation Data: 8301 / 10000
+	Test Data: 8298 / 10000
+Epoch 18:
+	Validation Data: 8321 / 10000
+	Test Data: 8317 / 10000
+Epoch 19:
+	Validation Data: 8348 / 10000
+	Test Data: 8337 / 10000
+Epoch 20:
+	Validation Data: 8344 / 10000
+	Test Data: 8340 / 10000
+Epoch 21:
+	Validation Data: 8378 / 10000
+	Test Data: 8361 / 10000
+Epoch 22:
+	Validation Data: 8395 / 10000
+	Test Data: 8378 / 10000
+Epoch 23:
+	Validation Data: 8526 / 10000
+	Test Data: 8509 / 10000
+Epoch 24:
+	Validation Data: 9203 / 10000
+	Test Data: 9142 / 10000
+Epoch 25:
+	Validation Data: 9249 / 10000
+	Test Data: 9217 / 10000
+Epoch 26:
+	Validation Data: 9278 / 10000
+	Test Data: 9242 / 10000
+Epoch 27:
+	Validation Data: 9283 / 10000
+	Test Data: 9264 / 10000
+Epoch 28:
+	Validation Data: 9315 / 10000
+	Test Data: 9272 / 10000
+Epoch 29:
+	Validation Data: 9299 / 10000
+	Test Data: 9287 / 10000
+Epoch 30:
+	Validation Data: 9325 / 10000
+	Test Data: 9298 / 10000
+Epoch 31:
+	Validation Data: 9333 / 10000
+	Test Data: 9314 / 10000
+Epoch 32:
+	Validation Data: 9341 / 10000
+	Test Data: 9321 / 10000
+Epoch 33:
+	Validation Data: 9345 / 10000
+	Test Data: 9334 / 10000
+Epoch 34:
+	Validation Data: 9345 / 10000
+	Test Data: 9337 / 10000
+Epoch 35:
+	Validation Data: 9356 / 10000
+	Test Data: 9336 / 10000
+Epoch 36:
+	Validation Data: 9363 / 10000
+	Test Data: 9343 / 10000
+Epoch 37:
+	Validation Data: 9363 / 10000
+	Test Data: 9344 / 10000
+Epoch 38:
+	Validation Data: 9366 / 10000
+	Test Data: 9358 / 10000
+Epoch 39:
+	Validation Data: 9376 / 10000
+	Test Data: 9363 / 10000
+Epoch 40:
+	Validation Data: 9383 / 10000
+	Test Data: 9381 / 10000
+Epoch 41:
+	Validation Data: 9387 / 10000
+	Test Data: 9380 / 10000
+Epoch 42:
+	Validation Data: 9387 / 10000
+	Test Data: 9382 / 10000
+Epoch 43:
+	Validation Data: 9408 / 10000
+	Test Data: 9388 / 10000
+Epoch 44:
+	Validation Data: 9414 / 10000
+	Test Data: 9384 / 10000
+Epoch 45:
+	Validation Data: 9406 / 10000
+	Test Data: 9388 / 10000
+Epoch 46:
+	Validation Data: 9419 / 10000
+	Test Data: 9399 / 10000
+Epoch 47:
+	Validation Data: 9419 / 10000
+	Test Data: 9407 / 10000
+Epoch 48:
+	Validation Data: 9421 / 10000
+	Test Data: 9401 / 10000
+Epoch 49:
+	Validation Data: 9424 / 10000
+	Test Data: 9404 / 10000
+Epoch 50:
+	Validation Data: 9432 / 10000
+	Test Data: 9403 / 10000
+Epoch 51:
+	Validation Data: 9432 / 10000
+	Test Data: 9413 / 10000
+Epoch 52:
+	Validation Data: 9438 / 10000
+	Test Data: 9421 / 10000
+Epoch 53:
+	Validation Data: 9440 / 10000
+	Test Data: 9424 / 10000
+Epoch 54:
+	Validation Data: 9447 / 10000
+	Test Data: 9429 / 10000
+Epoch 55:
+	Validation Data: 9440 / 10000
+	Test Data: 9419 / 10000
+Epoch 56:
+	Validation Data: 9454 / 10000
+	Test Data: 9426 / 10000
+Epoch 57:
+	Validation Data: 9454 / 10000
+	Test Data: 9421 / 10000
+Epoch 58:
+	Validation Data: 9450 / 10000
+	Test Data: 9441 / 10000
+Epoch 59:
+	Validation Data: 9465 / 10000
+	Test Data: 9440 / 10000
+Epoch 60:
+	Validation Data: 9457 / 10000
+	Test Data: 9436 / 10000
+Epoch 61:
+	Validation Data: 9461 / 10000
+	Test Data: 9443 / 10000
+Epoch 62:
+	Validation Data: 9464 / 10000
+	Test Data: 9436 / 10000
+Epoch 63:
+	Validation Data: 9471 / 10000
+	Test Data: 9449 / 10000
+Epoch 64:
+	Validation Data: 9467 / 10000
+	Test Data: 9453 / 10000
+Epoch 65:
+	Validation Data: 9476 / 10000
+	Test Data: 9454 / 10000
+Epoch 66:
+	Validation Data: 9483 / 10000
+	Test Data: 9456 / 10000
+Epoch 67:
+	Validation Data: 9480 / 10000
+	Test Data: 9455 / 10000
+Epoch 68:
+	Validation Data: 9482 / 10000
+	Test Data: 9458 / 10000
+Epoch 69:
+	Validation Data: 9495 / 10000
+	Test Data: 9459 / 10000
+Epoch 70:
+	Validation Data: 9485 / 10000
+	Test Data: 9470 / 10000
+Epoch 71:
+	Validation Data: 9505 / 10000
+	Test Data: 9469 / 10000
+Epoch 72:
+	Validation Data: 9493 / 10000
+	Test Data: 9468 / 10000
+Epoch 73:
+	Validation Data: 9500 / 10000
+	Test Data: 9471 / 10000
+Epoch 74:
+	Validation Data: 9501 / 10000
+	Test Data: 9478 / 10000
+End Time:2018-02-17 10:53:22.472566
+
+Iteration: 4
+Start Time:2018-02-17 10:53:22.472616
+Epoch 0:
+	Validation Data: 4874 / 10000
+	Test Data: 4862 / 10000
+Epoch 1:
+	Validation Data: 5377 / 10000
+	Test Data: 5343 / 10000
+Epoch 2:
+	Validation Data: 6039 / 10000
+	Test Data: 6029 / 10000
+Epoch 3:
+	Validation Data: 6242 / 10000
+	Test Data: 6222 / 10000
+Epoch 4:
+	Validation Data: 6325 / 10000
+	Test Data: 6323 / 10000
+Epoch 5:
+	Validation Data: 6405 / 10000
+	Test Data: 6398 / 10000
+Epoch 6:
+	Validation Data: 6446 / 10000
+	Test Data: 6460 / 10000
+Epoch 7:
+	Validation Data: 6504 / 10000
+	Test Data: 6490 / 10000
+Epoch 8:
+	Validation Data: 6598 / 10000
+	Test Data: 6583 / 10000
+Epoch 9:
+	Validation Data: 7146 / 10000
+	Test Data: 7164 / 10000
+Epoch 10:
+	Validation Data: 7351 / 10000
+	Test Data: 7375 / 10000
+Epoch 11:
+	Validation Data: 7390 / 10000
+	Test Data: 7420 / 10000
+Epoch 12:
+	Validation Data: 7411 / 10000
+	Test Data: 7451 / 10000
+Epoch 13:
+	Validation Data: 7426 / 10000
+	Test Data: 7470 / 10000
+Epoch 14:
+	Validation Data: 7449 / 10000
+	Test Data: 7485 / 10000
+Epoch 15:
+	Validation Data: 7456 / 10000
+	Test Data: 7492 / 10000
+Epoch 16:
+	Validation Data: 7472 / 10000
+	Test Data: 7513 / 10000
+Epoch 17:
+	Validation Data: 7480 / 10000
+	Test Data: 7522 / 10000
+Epoch 18:
+	Validation Data: 7491 / 10000
+	Test Data: 7538 / 10000
+Epoch 19:
+	Validation Data: 7497 / 10000
+	Test Data: 7542 / 10000
+Epoch 20:
+	Validation Data: 7509 / 10000
+	Test Data: 7550 / 10000
+Epoch 21:
+	Validation Data: 7533 / 10000
+	Test Data: 7570 / 10000
+Epoch 22:
+	Validation Data: 7531 / 10000
+	Test Data: 7572 / 10000
+Epoch 23:
+	Validation Data: 7543 / 10000
+	Test Data: 7575 / 10000
+Epoch 24:
+	Validation Data: 7551 / 10000
+	Test Data: 7576 / 10000
+Epoch 25:
+	Validation Data: 7564 / 10000
+	Test Data: 7593 / 10000
+Epoch 26:
+	Validation Data: 7571 / 10000
+	Test Data: 7586 / 10000
+Epoch 27:
+	Validation Data: 7579 / 10000
+	Test Data: 7602 / 10000
+Epoch 28:
+	Validation Data: 7586 / 10000
+	Test Data: 7597 / 10000
+Epoch 29:
+	Validation Data: 7592 / 10000
+	Test Data: 7615 / 10000
+Epoch 30:
+	Validation Data: 7600 / 10000
+	Test Data: 7616 / 10000
+Epoch 31:
+	Validation Data: 7610 / 10000
+	Test Data: 7618 / 10000
+Epoch 32:
+	Validation Data: 7618 / 10000
+	Test Data: 7618 / 10000
+Epoch 33:
+	Validation Data: 7617 / 10000
+	Test Data: 7623 / 10000
+Epoch 34:
+	Validation Data: 7615 / 10000
+	Test Data: 7630 / 10000
+Epoch 35:
+	Validation Data: 7623 / 10000
+	Test Data: 7637 / 10000
+Epoch 36:
+	Validation Data: 7626 / 10000
+	Test Data: 7635 / 10000
+Epoch 37:
+	Validation Data: 7628 / 10000
+	Test Data: 7650 / 10000
+Epoch 38:
+	Validation Data: 7643 / 10000
+	Test Data: 7645 / 10000
+Epoch 39:
+	Validation Data: 7642 / 10000
+	Test Data: 7645 / 10000
+Epoch 40:
+	Validation Data: 7645 / 10000
+	Test Data: 7649 / 10000
+Epoch 41:
+	Validation Data: 7643 / 10000
+	Test Data: 7662 / 10000
+Epoch 42:
+	Validation Data: 7646 / 10000
+	Test Data: 7653 / 10000
+Epoch 43:
+	Validation Data: 7651 / 10000
+	Test Data: 7663 / 10000
+Epoch 44:
+	Validation Data: 7648 / 10000
+	Test Data: 7662 / 10000
+Epoch 45:
+	Validation Data: 7648 / 10000
+	Test Data: 7657 / 10000
+Epoch 46:
+	Validation Data: 7655 / 10000
+	Test Data: 7669 / 10000
+Epoch 47:
+	Validation Data: 7656 / 10000
+	Test Data: 7675 / 10000
+Epoch 48:
+	Validation Data: 7649 / 10000
+	Test Data: 7672 / 10000
+Epoch 49:
+	Validation Data: 7652 / 10000
+	Test Data: 7669 / 10000
+Epoch 50:
+	Validation Data: 7659 / 10000
+	Test Data: 7676 / 10000
+Epoch 51:
+	Validation Data: 7658 / 10000
+	Test Data: 7675 / 10000
+Epoch 52:
+	Validation Data: 7663 / 10000
+	Test Data: 7673 / 10000
+Epoch 53:
+	Validation Data: 7667 / 10000
+	Test Data: 7681 / 10000
+Epoch 54:
+	Validation Data: 7663 / 10000
+	Test Data: 7679 / 10000
+Epoch 55:
+	Validation Data: 7659 / 10000
+	Test Data: 7680 / 10000
+Epoch 56:
+	Validation Data: 7671 / 10000
+	Test Data: 7683 / 10000
+Epoch 57:
+	Validation Data: 7670 / 10000
+	Test Data: 7687 / 10000
+Epoch 58:
+	Validation Data: 7668 / 10000
+	Test Data: 7691 / 10000
+Epoch 59:
+	Validation Data: 7672 / 10000
+	Test Data: 7683 / 10000
+Epoch 60:
+	Validation Data: 7670 / 10000
+	Test Data: 7689 / 10000
+Epoch 61:
+	Validation Data: 7670 / 10000
+	Test Data: 7683 / 10000
+Epoch 62:
+	Validation Data: 7677 / 10000
+	Test Data: 7686 / 10000
+Epoch 63:
+	Validation Data: 7669 / 10000
+	Test Data: 7692 / 10000
+Epoch 64:
+	Validation Data: 7669 / 10000
+	Test Data: 7691 / 10000
+Epoch 65:
+	Validation Data: 7672 / 10000
+	Test Data: 7690 / 10000
+Epoch 66:
+	Validation Data: 7671 / 10000
+	Test Data: 7689 / 10000
+Epoch 67:
+	Validation Data: 7672 / 10000
+	Test Data: 7692 / 10000
+Epoch 68:
+	Validation Data: 7676 / 10000
+	Test Data: 7688 / 10000
+Epoch 69:
+	Validation Data: 7679 / 10000
+	Test Data: 7695 / 10000
+Epoch 70:
+	Validation Data: 7684 / 10000
+	Test Data: 7697 / 10000
+Epoch 71:
+	Validation Data: 7677 / 10000
+	Test Data: 7699 / 10000
+Epoch 72:
+	Validation Data: 7677 / 10000
+	Test Data: 7692 / 10000
+Epoch 73:
+	Validation Data: 7679 / 10000
+	Test Data: 7700 / 10000
+Epoch 74:
+	Validation Data: 7681 / 10000
+	Test Data: 7696 / 10000
+End Time:2018-02-17 11:07:55.568416
+
+Set: 1
+		Network Details
+Network layout: [784, 100, 10]
+Number of Epochs: 75
+Batch Size: 8
+Learning Rate: 1.0
+Number of Runs: 5
+
+Iteration: 0
+Start Time:2018-02-17 11:07:55.568483
+Epoch 0:
+	Validation Data: 1064 / 10000
+	Test Data: 1135 / 10000
+Epoch 1:
+	Validation Data: 1067 / 10000
+	Test Data: 1140 / 10000
+Epoch 2:
+	Validation Data: 1066 / 10000
+	Test Data: 1138 / 10000
+Epoch 3:
+	Validation Data: 1068 / 10000
+	Test Data: 1139 / 10000
+Epoch 4:
+	Validation Data: 1068 / 10000
+	Test Data: 1136 / 10000
+Epoch 5:
+	Validation Data: 1071 / 10000
+	Test Data: 1139 / 10000
+Epoch 6:
+	Validation Data: 1078 / 10000
+	Test Data: 1143 / 10000
+Epoch 7:
+	Validation Data: 1081 / 10000
+	Test Data: 1145 / 10000
+Epoch 8:
+	Validation Data: 1079 / 10000
+	Test Data: 1143 / 10000
+Epoch 9:
+	Validation Data: 1077 / 10000
+	Test Data: 1144 / 10000
+Epoch 10:
+	Validation Data: 1090 / 10000
+	Test Data: 1157 / 10000
+Epoch 11:
+	Validation Data: 1085 / 10000
+	Test Data: 1151 / 10000
+Epoch 12:
+	Validation Data: 1092 / 10000
+	Test Data: 1166 / 10000
+Epoch 13:
+	Validation Data: 1088 / 10000
+	Test Data: 1156 / 10000
+Epoch 14:
+	Validation Data: 1099 / 10000
+	Test Data: 1172 / 10000
+Epoch 15:
+	Validation Data: 1096 / 10000
+	Test Data: 1165 / 10000
+Epoch 16:
+	Validation Data: 1104 / 10000
+	Test Data: 1175 / 10000
+Epoch 17:
+	Validation Data: 1125 / 10000
+	Test Data: 1195 / 10000
+Epoch 18:
+	Validation Data: 1157 / 10000
+	Test Data: 1230 / 10000
+Epoch 19:
+	Validation Data: 1188 / 10000
+	Test Data: 1242 / 10000
+Epoch 20:
+	Validation Data: 8447 / 10000
+	Test Data: 8490 / 10000
+Epoch 21:
+	Validation Data: 8517 / 10000
+	Test Data: 8583 / 10000
+Epoch 22:
+	Validation Data: 8522 / 10000
+	Test Data: 8589 / 10000
+Epoch 23:
+	Validation Data: 8555 / 10000
+	Test Data: 8598 / 10000
+Epoch 24:
+	Validation Data: 8547 / 10000
+	Test Data: 8599 / 10000
+Epoch 25:
+	Validation Data: 8556 / 10000
+	Test Data: 8582 / 10000
+Epoch 26:
+	Validation Data: 8554 / 10000
+	Test Data: 8605 / 10000
+Epoch 27:
+	Validation Data: 8560 / 10000
+	Test Data: 8607 / 10000
+Epoch 28:
+	Validation Data: 8572 / 10000
+	Test Data: 8618 / 10000
+Epoch 29:
+	Validation Data: 8574 / 10000
+	Test Data: 8625 / 10000
+Epoch 30:
+	Validation Data: 8576 / 10000
+	Test Data: 8613 / 10000
+Epoch 31:
+	Validation Data: 8585 / 10000
+	Test Data: 8625 / 10000
+Epoch 32:
+	Validation Data: 8582 / 10000
+	Test Data: 8626 / 10000
+Epoch 33:
+	Validation Data: 8588 / 10000
+	Test Data: 8623 / 10000
+Epoch 34:
+	Validation Data: 8590 / 10000
+	Test Data: 8622 / 10000
+Epoch 35:
+	Validation Data: 8597 / 10000
+	Test Data: 8632 / 10000
+Epoch 36:
+	Validation Data: 8593 / 10000
+	Test Data: 8624 / 10000
+Epoch 37:
+	Validation Data: 8599 / 10000
+	Test Data: 8626 / 10000
+Epoch 38:
+	Validation Data: 8606 / 10000
+	Test Data: 8623 / 10000
+Epoch 39:
+	Validation Data: 8601 / 10000
+	Test Data: 8626 / 10000
+Epoch 40:
+	Validation Data: 8585 / 10000
+	Test Data: 8632 / 10000
+Epoch 41:
+	Validation Data: 8598 / 10000
+	Test Data: 8636 / 10000
+Epoch 42:
+	Validation Data: 8602 / 10000
+	Test Data: 8631 / 10000
+Epoch 43:
+	Validation Data: 8605 / 10000
+	Test Data: 8635 / 10000
+Epoch 44:
+	Validation Data: 8605 / 10000
+	Test Data: 8634 / 10000
+Epoch 45:
+	Validation Data: 8598 / 10000
+	Test Data: 8646 / 10000
+Epoch 46:
+	Validation Data: 8600 / 10000
+	Test Data: 8629 / 10000
+Epoch 47:
+	Validation Data: 8610 / 10000
+	Test Data: 8642 / 10000
+Epoch 48:
+	Validation Data: 8601 / 10000
+	Test Data: 8631 / 10000
+Epoch 49:
+	Validation Data: 8607 / 10000
+	Test Data: 8638 / 10000
+Epoch 50:
+	Validation Data: 8613 / 10000
+	Test Data: 8638 / 10000
+Epoch 51:
+	Validation Data: 8613 / 10000
+	Test Data: 8631 / 10000
+Epoch 52:
+	Validation Data: 8609 / 10000
+	Test Data: 8636 / 10000
+Epoch 53:
+	Validation Data: 8608 / 10000
+	Test Data: 8638 / 10000
+Epoch 54:
+	Validation Data: 8610 / 10000
+	Test Data: 8640 / 10000
+Epoch 55:
+	Validation Data: 8613 / 10000
+	Test Data: 8636 / 10000
+Epoch 56:
+	Validation Data: 8611 / 10000
+	Test Data: 8635 / 10000
+Epoch 57:
+	Validation Data: 8612 / 10000
+	Test Data: 8645 / 10000
+Epoch 58:
+	Validation Data: 8616 / 10000
+	Test Data: 8646 / 10000
+Epoch 59:
+	Validation Data: 8611 / 10000
+	Test Data: 8640 / 10000
+Epoch 60:
+	Validation Data: 8605 / 10000
+	Test Data: 8641 / 10000
+Epoch 61:
+	Validation Data: 8616 / 10000
+	Test Data: 8637 / 10000
+Epoch 62:
+	Validation Data: 8620 / 10000
+	Test Data: 8644 / 10000
+Epoch 63:
+	Validation Data: 8614 / 10000
+	Test Data: 8639 / 10000
+Epoch 64:
+	Validation Data: 8608 / 10000
+	Test Data: 8639 / 10000
+Epoch 65:
+	Validation Data: 8618 / 10000
+	Test Data: 8641 / 10000
+Epoch 66:
+	Validation Data: 8612 / 10000
+	Test Data: 8644 / 10000
+Epoch 67:
+	Validation Data: 8616 / 10000
+	Test Data: 8645 / 10000
+Epoch 68:
+	Validation Data: 8616 / 10000
+	Test Data: 8650 / 10000
+Epoch 69:
+	Validation Data: 8621 / 10000
+	Test Data: 8643 / 10000
+Epoch 70:
+	Validation Data: 8615 / 10000
+	Test Data: 8641 / 10000
+Epoch 71:
+	Validation Data: 8623 / 10000
+	Test Data: 8646 / 10000
+Epoch 72:
+	Validation Data: 8613 / 10000
+	Test Data: 8644 / 10000
+Epoch 73:
+	Validation Data: 8614 / 10000
+	Test Data: 8642 / 10000
+Epoch 74:
+	Validation Data: 8610 / 10000
+	Test Data: 8646 / 10000
+End Time:2018-02-17 11:23:25.513824
+
+Iteration: 1
+Start Time:2018-02-17 11:23:25.513877
+Epoch 0:
+	Validation Data: 3957 / 10000
+	Test Data: 3965 / 10000
+Epoch 1:
+	Validation Data: 3988 / 10000
+	Test Data: 4003 / 10000
+Epoch 2:
+	Validation Data: 4257 / 10000
+	Test Data: 4272 / 10000
+Epoch 3:
+	Validation Data: 4788 / 10000
+	Test Data: 4776 / 10000
+Epoch 4:
+	Validation Data: 4873 / 10000
+	Test Data: 4882 / 10000
+Epoch 5:
+	Validation Data: 5736 / 10000
+	Test Data: 5777 / 10000
+Epoch 6:
+	Validation Data: 5762 / 10000
+	Test Data: 5814 / 10000
+Epoch 7:
+	Validation Data: 6694 / 10000
+	Test Data: 6709 / 10000
+Epoch 8:
+	Validation Data: 6718 / 10000
+	Test Data: 6753 / 10000
+Epoch 9:
+	Validation Data: 6741 / 10000
+	Test Data: 6770 / 10000
+Epoch 10:
+	Validation Data: 6734 / 10000
+	Test Data: 6773 / 10000
+Epoch 11:
+	Validation Data: 6769 / 10000
+	Test Data: 6797 / 10000
+Epoch 12:
+	Validation Data: 6775 / 10000
+	Test Data: 6794 / 10000
+Epoch 13:
+	Validation Data: 6894 / 10000
+	Test Data: 6899 / 10000
+Epoch 14:
+	Validation Data: 7611 / 10000
+	Test Data: 7611 / 10000
+Epoch 15:
+	Validation Data: 7653 / 10000
+	Test Data: 7667 / 10000
+Epoch 16:
+	Validation Data: 7667 / 10000
+	Test Data: 7673 / 10000
+Epoch 17:
+	Validation Data: 7664 / 10000
+	Test Data: 7670 / 10000
+Epoch 18:
+	Validation Data: 7681 / 10000
+	Test Data: 7688 / 10000
+Epoch 19:
+	Validation Data: 7693 / 10000
+	Test Data: 7692 / 10000
+Epoch 20:
+	Validation Data: 7687 / 10000
+	Test Data: 7685 / 10000
+Epoch 21:
+	Validation Data: 7706 / 10000
+	Test Data: 7714 / 10000
+Epoch 22:
+	Validation Data: 7692 / 10000
+	Test Data: 7724 / 10000
+Epoch 23:
+	Validation Data: 7715 / 10000
+	Test Data: 7720 / 10000
+Epoch 24:
+	Validation Data: 7716 / 10000
+	Test Data: 7740 / 10000
+Epoch 25:
+	Validation Data: 7723 / 10000
+	Test Data: 7743 / 10000
+Epoch 26:
+	Validation Data: 7754 / 10000
+	Test Data: 7771 / 10000
+Epoch 27:
+	Validation Data: 7826 / 10000
+	Test Data: 7846 / 10000
+Epoch 28:
+	Validation Data: 8733 / 10000
+	Test Data: 8666 / 10000
+Epoch 29:
+	Validation Data: 8716 / 10000
+	Test Data: 8669 / 10000
+Epoch 30:
+	Validation Data: 8732 / 10000
+	Test Data: 8679 / 10000
+Epoch 31:
+	Validation Data: 8748 / 10000
+	Test Data: 8667 / 10000
+Epoch 32:
+	Validation Data: 8744 / 10000
+	Test Data: 8668 / 10000
+Epoch 33:
+	Validation Data: 8759 / 10000
+	Test Data: 8683 / 10000
+Epoch 34:
+	Validation Data: 8758 / 10000
+	Test Data: 8685 / 10000
+Epoch 35:
+	Validation Data: 8759 / 10000
+	Test Data: 8681 / 10000
+Epoch 36:
+	Validation Data: 8769 / 10000
+	Test Data: 8680 / 10000
+Epoch 37:
+	Validation Data: 8759 / 10000
+	Test Data: 8702 / 10000
+Epoch 38:
+	Validation Data: 8762 / 10000
+	Test Data: 8692 / 10000
+Epoch 39:
+	Validation Data: 8767 / 10000
+	Test Data: 8698 / 10000
+Epoch 40:
+	Validation Data: 8761 / 10000
+	Test Data: 8695 / 10000
+Epoch 41:
+	Validation Data: 8769 / 10000
+	Test Data: 8702 / 10000
+Epoch 42:
+	Validation Data: 8765 / 10000
+	Test Data: 8691 / 10000
+Epoch 43:
+	Validation Data: 8761 / 10000
+	Test Data: 8701 / 10000
+Epoch 44:
+	Validation Data: 8766 / 10000
+	Test Data: 8694 / 10000
+Epoch 45:
+	Validation Data: 8761 / 10000
+	Test Data: 8684 / 10000
+Epoch 46:
+	Validation Data: 8760 / 10000
+	Test Data: 8695 / 10000
+Epoch 47:
+	Validation Data: 8760 / 10000
+	Test Data: 8689 / 10000
+Epoch 48:
+	Validation Data: 8770 / 10000
+	Test Data: 8686 / 10000
+Epoch 49:
+	Validation Data: 8765 / 10000
+	Test Data: 8692 / 10000
+Epoch 50:
+	Validation Data: 8768 / 10000
+	Test Data: 8693 / 10000
+Epoch 51:
+	Validation Data: 8766 / 10000
+	Test Data: 8696 / 10000
+Epoch 52:
+	Validation Data: 8771 / 10000
+	Test Data: 8692 / 10000
+Epoch 53:
+	Validation Data: 8761 / 10000
+	Test Data: 8698 / 10000
+Epoch 54:
+	Validation Data: 8767 / 10000
+	Test Data: 8703 / 10000
+Epoch 55:
+	Validation Data: 8765 / 10000
+	Test Data: 8690 / 10000
+Epoch 56:
+	Validation Data: 8766 / 10000
+	Test Data: 8695 / 10000
+Epoch 57:
+	Validation Data: 8773 / 10000
+	Test Data: 8691 / 10000
+Epoch 58:
+	Validation Data: 8771 / 10000
+	Test Data: 8689 / 10000
+Epoch 59:
+	Validation Data: 8761 / 10000
+	Test Data: 8697 / 10000
+Epoch 60:
+	Validation Data: 8772 / 10000
+	Test Data: 8691 / 10000
+Epoch 61:
+	Validation Data: 8770 / 10000
+	Test Data: 8692 / 10000
+Epoch 62:
+	Validation Data: 8766 / 10000
+	Test Data: 8696 / 10000
+Epoch 63:
+	Validation Data: 8775 / 10000
+	Test Data: 8687 / 10000
+Epoch 64:
+	Validation Data: 8774 / 10000
+	Test Data: 8694 / 10000
+Epoch 65:
+	Validation Data: 8770 / 10000
+	Test Data: 8689 / 10000
+Epoch 66:
+	Validation Data: 8772 / 10000
+	Test Data: 8700 / 10000
+Epoch 67:
+	Validation Data: 8774 / 10000
+	Test Data: 8690 / 10000
+Epoch 68:
+	Validation Data: 8770 / 10000
+	Test Data: 8692 / 10000
+Epoch 69:
+	Validation Data: 8773 / 10000
+	Test Data: 8695 / 10000
+Epoch 70:
+	Validation Data: 8769 / 10000
+	Test Data: 8697 / 10000
+Epoch 71:
+	Validation Data: 8771 / 10000
+	Test Data: 8696 / 10000
+Epoch 72:
+	Validation Data: 8769 / 10000
+	Test Data: 8696 / 10000
+Epoch 73:
+	Validation Data: 8781 / 10000
+	Test Data: 8695 / 10000
+Epoch 74:
+	Validation Data: 8774 / 10000
+	Test Data: 8693 / 10000
+End Time:2018-02-17 11:38:06.880653
+
+Iteration: 2
+Start Time:2018-02-17 11:38:06.880705
+Epoch 0:
+	Validation Data: 6567 / 10000
+	Test Data: 6562 / 10000
+Epoch 1:
+	Validation Data: 7601 / 10000
+	Test Data: 7517 / 10000
+Epoch 2:
+	Validation Data: 7689 / 10000
+	Test Data: 7624 / 10000
+Epoch 3:
+	Validation Data: 7715 / 10000
+	Test Data: 7663 / 10000
+Epoch 4:
+	Validation Data: 7749 / 10000
+	Test Data: 7685 / 10000
+Epoch 5:
+	Validation Data: 7750 / 10000
+	Test Data: 7694 / 10000
+Epoch 6:
+	Validation Data: 7759 / 10000
+	Test Data: 7690 / 10000
+Epoch 7:
+	Validation Data: 7783 / 10000
+	Test Data: 7724 / 10000
+Epoch 8:
+	Validation Data: 7796 / 10000
+	Test Data: 7726 / 10000
+Epoch 9:
+	Validation Data: 7793 / 10000
+	Test Data: 7734 / 10000
+Epoch 10:
+	Validation Data: 7859 / 10000
+	Test Data: 7779 / 10000
+Epoch 11:
+	Validation Data: 8644 / 10000
+	Test Data: 8555 / 10000
+Epoch 12:
+	Validation Data: 8685 / 10000
+	Test Data: 8596 / 10000
+Epoch 13:
+	Validation Data: 8708 / 10000
+	Test Data: 8605 / 10000
+Epoch 14:
+	Validation Data: 8711 / 10000
+	Test Data: 8602 / 10000
+Epoch 15:
+	Validation Data: 8714 / 10000
+	Test Data: 8623 / 10000
+Epoch 16:
+	Validation Data: 8713 / 10000
+	Test Data: 8642 / 10000
+Epoch 17:
+	Validation Data: 8721 / 10000
+	Test Data: 8625 / 10000
+Epoch 18:
+	Validation Data: 8731 / 10000
+	Test Data: 8641 / 10000
+Epoch 19:
+	Validation Data: 8731 / 10000
+	Test Data: 8624 / 10000
+Epoch 20:
+	Validation Data: 8726 / 10000
+	Test Data: 8629 / 10000
+Epoch 21:
+	Validation Data: 8742 / 10000
+	Test Data: 8647 / 10000
+Epoch 22:
+	Validation Data: 8739 / 10000
+	Test Data: 8647 / 10000
+Epoch 23:
+	Validation Data: 8748 / 10000
+	Test Data: 8643 / 10000
+Epoch 24:
+	Validation Data: 8740 / 10000
+	Test Data: 8655 / 10000
+Epoch 25:
+	Validation Data: 8747 / 10000
+	Test Data: 8650 / 10000
+Epoch 26:
+	Validation Data: 8731 / 10000
+	Test Data: 8642 / 10000
+Epoch 27:
+	Validation Data: 8746 / 10000
+	Test Data: 8656 / 10000
+Epoch 28:
+	Validation Data: 8750 / 10000
+	Test Data: 8651 / 10000
+Epoch 29:
+	Validation Data: 8750 / 10000
+	Test Data: 8647 / 10000
+Epoch 30:
+	Validation Data: 8752 / 10000
+	Test Data: 8658 / 10000
+Epoch 31:
+	Validation Data: 8748 / 10000
+	Test Data: 8660 / 10000
+Epoch 32:
+	Validation Data: 8754 / 10000
+	Test Data: 8650 / 10000
+Epoch 33:
+	Validation Data: 8762 / 10000
+	Test Data: 8659 / 10000
+Epoch 34:
+	Validation Data: 8753 / 10000
+	Test Data: 8657 / 10000
+Epoch 35:
+	Validation Data: 8749 / 10000
+	Test Data: 8664 / 10000
+Epoch 36:
+	Validation Data: 8754 / 10000
+	Test Data: 8663 / 10000
+Epoch 37:
+	Validation Data: 8759 / 10000
+	Test Data: 8662 / 10000
+Epoch 38:
+	Validation Data: 8752 / 10000
+	Test Data: 8660 / 10000
+Epoch 39:
+	Validation Data: 8766 / 10000
+	Test Data: 8660 / 10000
+Epoch 40:
+	Validation Data: 8758 / 10000
+	Test Data: 8654 / 10000
+Epoch 41:
+	Validation Data: 8745 / 10000
+	Test Data: 8654 / 10000
+Epoch 42:
+	Validation Data: 8757 / 10000
+	Test Data: 8644 / 10000
+Epoch 43:
+	Validation Data: 8762 / 10000
+	Test Data: 8653 / 10000
+Epoch 44:
+	Validation Data: 8761 / 10000
+	Test Data: 8659 / 10000
+Epoch 45:
+	Validation Data: 8754 / 10000
+	Test Data: 8661 / 10000
+Epoch 46:
+	Validation Data: 8759 / 10000
+	Test Data: 8659 / 10000
+Epoch 47:
+	Validation Data: 8761 / 10000
+	Test Data: 8657 / 10000
+Epoch 48:
+	Validation Data: 8756 / 10000
+	Test Data: 8658 / 10000
+Epoch 49:
+	Validation Data: 8759 / 10000
+	Test Data: 8661 / 10000
+Epoch 50:
+	Validation Data: 8762 / 10000
+	Test Data: 8660 / 10000
+Epoch 51:
+	Validation Data: 8760 / 10000
+	Test Data: 8662 / 10000
+Epoch 52:
+	Validation Data: 8762 / 10000
+	Test Data: 8669 / 10000
+Epoch 53:
+	Validation Data: 8755 / 10000
+	Test Data: 8664 / 10000
+Epoch 54:
+	Validation Data: 8758 / 10000
+	Test Data: 8662 / 10000
+Epoch 55:
+	Validation Data: 8762 / 10000
+	Test Data: 8661 / 10000
+Epoch 56:
+	Validation Data: 8761 / 10000
+	Test Data: 8666 / 10000
+Epoch 57:
+	Validation Data: 8763 / 10000
+	Test Data: 8665 / 10000
+Epoch 58:
+	Validation Data: 8756 / 10000
+	Test Data: 8662 / 10000
+Epoch 59:
+	Validation Data: 8761 / 10000
+	Test Data: 8662 / 10000
+Epoch 60:
+	Validation Data: 8755 / 10000
+	Test Data: 8674 / 10000
+Epoch 61:
+	Validation Data: 8754 / 10000
+	Test Data: 8672 / 10000
+Epoch 62:
+	Validation Data: 8758 / 10000
+	Test Data: 8664 / 10000
+Epoch 63:
+	Validation Data: 8754 / 10000
+	Test Data: 8674 / 10000
+Epoch 64:
+	Validation Data: 8756 / 10000
+	Test Data: 8667 / 10000
+Epoch 65:
+	Validation Data: 8756 / 10000
+	Test Data: 8675 / 10000
+Epoch 66:
+	Validation Data: 8757 / 10000
+	Test Data: 8671 / 10000
+Epoch 67:
+	Validation Data: 8759 / 10000
+	Test Data: 8670 / 10000
+Epoch 68:
+	Validation Data: 8754 / 10000
+	Test Data: 8678 / 10000
+Epoch 69:
+	Validation Data: 8759 / 10000
+	Test Data: 8670 / 10000
+Epoch 70:
+	Validation Data: 8759 / 10000
+	Test Data: 8673 / 10000
+Epoch 71:
+	Validation Data: 8763 / 10000
+	Test Data: 8677 / 10000
+Epoch 72:
+	Validation Data: 8760 / 10000
+	Test Data: 8674 / 10000
+Epoch 73:
+	Validation Data: 8761 / 10000
+	Test Data: 8676 / 10000
+Epoch 74:
+	Validation Data: 8764 / 10000
+	Test Data: 8673 / 10000
+End Time:2018-02-17 11:52:45.865642
+
+Iteration: 3
+Start Time:2018-02-17 11:52:45.865723
+Epoch 0:
+	Validation Data: 6414 / 10000
+	Test Data: 6451 / 10000
+Epoch 1:
+	Validation Data: 7467 / 10000
+	Test Data: 7501 / 10000
+Epoch 2:
+	Validation Data: 7573 / 10000
+	Test Data: 7583 / 10000
+Epoch 3:
+	Validation Data: 7616 / 10000
+	Test Data: 7649 / 10000
+Epoch 4:
+	Validation Data: 7629 / 10000
+	Test Data: 7665 / 10000
+Epoch 5:
+	Validation Data: 7677 / 10000
+	Test Data: 7663 / 10000
+Epoch 6:
+	Validation Data: 7686 / 10000
+	Test Data: 7692 / 10000
+Epoch 7:
+	Validation Data: 7697 / 10000
+	Test Data: 7721 / 10000
+Epoch 8:
+	Validation Data: 7711 / 10000
+	Test Data: 7721 / 10000
+Epoch 9:
+	Validation Data: 7727 / 10000
+	Test Data: 7724 / 10000
+Epoch 10:
+	Validation Data: 7737 / 10000
+	Test Data: 7728 / 10000
+Epoch 11:
+	Validation Data: 7725 / 10000
+	Test Data: 7742 / 10000
+Epoch 12:
+	Validation Data: 7736 / 10000
+	Test Data: 7759 / 10000
+Epoch 13:
+	Validation Data: 7746 / 10000
+	Test Data: 7737 / 10000
+Epoch 14:
+	Validation Data: 7752 / 10000
+	Test Data: 7763 / 10000
+Epoch 15:
+	Validation Data: 7744 / 10000
+	Test Data: 7756 / 10000
+Epoch 16:
+	Validation Data: 7750 / 10000
+	Test Data: 7760 / 10000
+Epoch 17:
+	Validation Data: 7752 / 10000
+	Test Data: 7767 / 10000
+Epoch 18:
+	Validation Data: 7751 / 10000
+	Test Data: 7763 / 10000
+Epoch 19:
+	Validation Data: 7765 / 10000
+	Test Data: 7765 / 10000
+Epoch 20:
+	Validation Data: 7764 / 10000
+	Test Data: 7765 / 10000
+Epoch 21:
+	Validation Data: 7762 / 10000
+	Test Data: 7779 / 10000
+Epoch 22:
+	Validation Data: 7769 / 10000
+	Test Data: 7768 / 10000
+Epoch 23:
+	Validation Data: 7772 / 10000
+	Test Data: 7767 / 10000
+Epoch 24:
+	Validation Data: 7749 / 10000
+	Test Data: 7756 / 10000
+Epoch 25:
+	Validation Data: 7769 / 10000
+	Test Data: 7768 / 10000
+Epoch 26:
+	Validation Data: 7769 / 10000
+	Test Data: 7771 / 10000
+Epoch 27:
+	Validation Data: 7768 / 10000
+	Test Data: 7772 / 10000
+Epoch 28:
+	Validation Data: 7771 / 10000
+	Test Data: 7771 / 10000
+Epoch 29:
+	Validation Data: 7773 / 10000
+	Test Data: 7764 / 10000
+Epoch 30:
+	Validation Data: 7776 / 10000
+	Test Data: 7761 / 10000
+Epoch 31:
+	Validation Data: 7777 / 10000
+	Test Data: 7770 / 10000
+Epoch 32:
+	Validation Data: 7776 / 10000
+	Test Data: 7765 / 10000
+Epoch 33:
+	Validation Data: 7781 / 10000
+	Test Data: 7766 / 10000
+Epoch 34:
+	Validation Data: 7786 / 10000
+	Test Data: 7768 / 10000
+Epoch 35:
+	Validation Data: 7781 / 10000
+	Test Data: 7770 / 10000
+Epoch 36:
+	Validation Data: 7777 / 10000
+	Test Data: 7766 / 10000
+Epoch 37:
+	Validation Data: 7778 / 10000
+	Test Data: 7769 / 10000
+Epoch 38:
+	Validation Data: 7775 / 10000
+	Test Data: 7776 / 10000
+Epoch 39:
+	Validation Data: 7788 / 10000
+	Test Data: 7777 / 10000
+Epoch 40:
+	Validation Data: 7785 / 10000
+	Test Data: 7772 / 10000
+Epoch 41:
+	Validation Data: 7792 / 10000
+	Test Data: 7772 / 10000
+Epoch 42:
+	Validation Data: 7785 / 10000
+	Test Data: 7768 / 10000
+Epoch 43:
+	Validation Data: 7783 / 10000
+	Test Data: 7768 / 10000
+Epoch 44:
+	Validation Data: 7787 / 10000
+	Test Data: 7774 / 10000
+Epoch 45:
+	Validation Data: 7777 / 10000
+	Test Data: 7771 / 10000
+Epoch 46:
+	Validation Data: 7780 / 10000
+	Test Data: 7768 / 10000
+Epoch 47:
+	Validation Data: 7784 / 10000
+	Test Data: 7770 / 10000
+Epoch 48:
+	Validation Data: 7788 / 10000
+	Test Data: 7776 / 10000
+Epoch 49:
+	Validation Data: 7786 / 10000
+	Test Data: 7773 / 10000
+Epoch 50:
+	Validation Data: 7786 / 10000
+	Test Data: 7773 / 10000
+Epoch 51:
+	Validation Data: 7788 / 10000
+	Test Data: 7781 / 10000
+Epoch 52:
+	Validation Data: 7788 / 10000
+	Test Data: 7776 / 10000
+Epoch 53:
+	Validation Data: 7780 / 10000
+	Test Data: 7778 / 10000
+Epoch 54:
+	Validation Data: 7784 / 10000
+	Test Data: 7780 / 10000
+Epoch 55:
+	Validation Data: 7789 / 10000
+	Test Data: 7783 / 10000
+Epoch 56:
+	Validation Data: 7789 / 10000
+	Test Data: 7780 / 10000
+Epoch 57:
+	Validation Data: 7792 / 10000
+	Test Data: 7780 / 10000
+Epoch 58:
+	Validation Data: 7788 / 10000
+	Test Data: 7782 / 10000
+Epoch 59:
+	Validation Data: 7798 / 10000
+	Test Data: 7786 / 10000
+Epoch 60:
+	Validation Data: 7798 / 10000
+	Test Data: 7787 / 10000
+Epoch 61:
+	Validation Data: 7804 / 10000
+	Test Data: 7794 / 10000
+Epoch 62:
+	Validation Data: 7801 / 10000
+	Test Data: 7800 / 10000
+Epoch 63:
+	Validation Data: 7816 / 10000
+	Test Data: 7809 / 10000
+Epoch 64:
+	Validation Data: 7822 / 10000
+	Test Data: 7815 / 10000
+Epoch 65:
+	Validation Data: 7844 / 10000
+	Test Data: 7842 / 10000
+Epoch 66:
+	Validation Data: 7837 / 10000
+	Test Data: 7842 / 10000
+Epoch 67:
+	Validation Data: 8104 / 10000
+	Test Data: 8078 / 10000
+Epoch 68:
+	Validation Data: 8652 / 10000
+	Test Data: 8644 / 10000
+Epoch 69:
+	Validation Data: 8673 / 10000
+	Test Data: 8659 / 10000
+Epoch 70:
+	Validation Data: 8672 / 10000
+	Test Data: 8643 / 10000
+Epoch 71:
+	Validation Data: 8676 / 10000
+	Test Data: 8636 / 10000
+Epoch 72:
+	Validation Data: 8677 / 10000
+	Test Data: 8652 / 10000
+Epoch 73:
+	Validation Data: 8683 / 10000
+	Test Data: 8664 / 10000
+Epoch 74:
+	Validation Data: 8687 / 10000
+	Test Data: 8664 / 10000
+End Time:2018-02-17 12:07:43.233288
+
+Iteration: 4
+Start Time:2018-02-17 12:07:43.233339
+Epoch 0:
+	Validation Data: 6358 / 10000
+	Test Data: 6408 / 10000
+Epoch 1:
+	Validation Data: 6543 / 10000
+	Test Data: 6578 / 10000
+Epoch 2:
+	Validation Data: 6641 / 10000
+	Test Data: 6659 / 10000
+Epoch 3:
+	Validation Data: 6683 / 10000
+	Test Data: 6699 / 10000
+Epoch 4:
+	Validation Data: 6700 / 10000
+	Test Data: 6747 / 10000
+Epoch 5:
+	Validation Data: 6733 / 10000
+	Test Data: 6762 / 10000
+Epoch 6:
+	Validation Data: 6762 / 10000
+	Test Data: 6789 / 10000
+Epoch 7:
+	Validation Data: 6792 / 10000
+	Test Data: 6826 / 10000
+Epoch 8:
+	Validation Data: 7695 / 10000
+	Test Data: 7729 / 10000
+Epoch 9:
+	Validation Data: 7708 / 10000
+	Test Data: 7738 / 10000
+Epoch 10:
+	Validation Data: 7715 / 10000
+	Test Data: 7750 / 10000
+Epoch 11:
+	Validation Data: 7732 / 10000
+	Test Data: 7759 / 10000
+Epoch 12:
+	Validation Data: 7720 / 10000
+	Test Data: 7758 / 10000
+Epoch 13:
+	Validation Data: 7742 / 10000
+	Test Data: 7773 / 10000
+Epoch 14:
+	Validation Data: 7755 / 10000
+	Test Data: 7772 / 10000
+Epoch 15:
+	Validation Data: 7736 / 10000
+	Test Data: 7768 / 10000
+Epoch 16:
+	Validation Data: 7753 / 10000
+	Test Data: 7779 / 10000
+Epoch 17:
+	Validation Data: 7753 / 10000
+	Test Data: 7794 / 10000
+Epoch 18:
+	Validation Data: 7755 / 10000
+	Test Data: 7790 / 10000
+Epoch 19:
+	Validation Data: 7760 / 10000
+	Test Data: 7788 / 10000
+Epoch 20:
+	Validation Data: 7752 / 10000
+	Test Data: 7801 / 10000
+Epoch 21:
+	Validation Data: 7760 / 10000
+	Test Data: 7800 / 10000
+Epoch 22:
+	Validation Data: 7744 / 10000
+	Test Data: 7787 / 10000
+Epoch 23:
+	Validation Data: 7759 / 10000
+	Test Data: 7794 / 10000
+Epoch 24:
+	Validation Data: 7763 / 10000
+	Test Data: 7802 / 10000
+Epoch 25:
+	Validation Data: 7758 / 10000
+	Test Data: 7804 / 10000
+Epoch 26:
+	Validation Data: 7747 / 10000
+	Test Data: 7791 / 10000
+Epoch 27:
+	Validation Data: 7764 / 10000
+	Test Data: 7807 / 10000
+Epoch 28:
+	Validation Data: 7747 / 10000
+	Test Data: 7801 / 10000
+Epoch 29:
+	Validation Data: 7763 / 10000
+	Test Data: 7804 / 10000
+Epoch 30:
+	Validation Data: 7755 / 10000
+	Test Data: 7805 / 10000
+Epoch 31:
+	Validation Data: 7762 / 10000
+	Test Data: 7800 / 10000
+Epoch 32:
+	Validation Data: 7754 / 10000
+	Test Data: 7798 / 10000
+Epoch 33:
+	Validation Data: 7760 / 10000
+	Test Data: 7791 / 10000
+Epoch 34:
+	Validation Data: 7759 / 10000
+	Test Data: 7808 / 10000
+Epoch 35:
+	Validation Data: 7747 / 10000
+	Test Data: 7798 / 10000
+Epoch 36:
+	Validation Data: 7763 / 10000
+	Test Data: 7809 / 10000
+Epoch 37:
+	Validation Data: 7756 / 10000
+	Test Data: 7802 / 10000
+Epoch 38:
+	Validation Data: 7753 / 10000
+	Test Data: 7796 / 10000
+Epoch 39:
+	Validation Data: 7766 / 10000
+	Test Data: 7806 / 10000
+Epoch 40:
+	Validation Data: 7758 / 10000
+	Test Data: 7801 / 10000
+Epoch 41:
+	Validation Data: 7760 / 10000
+	Test Data: 7805 / 10000
+Epoch 42:
+	Validation Data: 7758 / 10000
+	Test Data: 7805 / 10000
+Epoch 43:
+	Validation Data: 7762 / 10000
+	Test Data: 7800 / 10000
+Epoch 44:
+	Validation Data: 7761 / 10000
+	Test Data: 7804 / 10000
+Epoch 45:
+	Validation Data: 7763 / 10000
+	Test Data: 7807 / 10000
+Epoch 46:
+	Validation Data: 7765 / 10000
+	Test Data: 7802 / 10000
+Epoch 47:
+	Validation Data: 7764 / 10000
+	Test Data: 7806 / 10000
+Epoch 48:
+	Validation Data: 7763 / 10000
+	Test Data: 7809 / 10000
+Epoch 49:
+	Validation Data: 7765 / 10000
+	Test Data: 7804 / 10000
+Epoch 50:
+	Validation Data: 7767 / 10000
+	Test Data: 7804 / 10000
+Epoch 51:
+	Validation Data: 7761 / 10000
+	Test Data: 7807 / 10000
+Epoch 52:
+	Validation Data: 7759 / 10000
+	Test Data: 7806 / 10000
+Epoch 53:
+	Validation Data: 7764 / 10000
+	Test Data: 7808 / 10000
+Epoch 54:
+	Validation Data: 7766 / 10000
+	Test Data: 7802 / 10000
+Epoch 55:
+	Validation Data: 7768 / 10000
+	Test Data: 7804 / 10000
+Epoch 56:
+	Validation Data: 7763 / 10000
+	Test Data: 7814 / 10000
+Epoch 57:
+	Validation Data: 7763 / 10000
+	Test Data: 7805 / 10000
+Epoch 58:
+	Validation Data: 7764 / 10000
+	Test Data: 7809 / 10000
+Epoch 59:
+	Validation Data: 7762 / 10000
+	Test Data: 7805 / 10000
+Epoch 60:
+	Validation Data: 7760 / 10000
+	Test Data: 7806 / 10000
+Epoch 61:
+	Validation Data: 7763 / 10000
+	Test Data: 7808 / 10000
+Epoch 62:
+	Validation Data: 7762 / 10000
+	Test Data: 7805 / 10000
+Epoch 63:
+	Validation Data: 7767 / 10000
+	Test Data: 7803 / 10000
+Epoch 64:
+	Validation Data: 7762 / 10000
+	Test Data: 7806 / 10000
+Epoch 65:
+	Validation Data: 7766 / 10000
+	Test Data: 7802 / 10000
+Epoch 66:
+	Validation Data: 7763 / 10000
+	Test Data: 7803 / 10000
+Epoch 67:
+	Validation Data: 7766 / 10000
+	Test Data: 7806 / 10000
+Epoch 68:
+	Validation Data: 7765 / 10000
+	Test Data: 7802 / 10000
+Epoch 69:
+	Validation Data: 7761 / 10000
+	Test Data: 7804 / 10000
+Epoch 70:
+	Validation Data: 7764 / 10000
+	Test Data: 7801 / 10000
+Epoch 71:
+	Validation Data: 7763 / 10000
+	Test Data: 7803 / 10000
+Epoch 72:
+	Validation Data: 7763 / 10000
+	Test Data: 7805 / 10000
+Epoch 73:
+	Validation Data: 7765 / 10000
+	Test Data: 7807 / 10000
+Epoch 74:
+	Validation Data: 7765 / 10000
+	Test Data: 7807 / 10000
+End Time:2018-02-17 12:22:21.828351
+
+Set: 2
+		Network Details
+Network layout: [784, 100, 10]
+Number of Epochs: 75
+Batch Size: 8
+Learning Rate: 3.0
+Number of Runs: 5
+
+Iteration: 0
+Start Time:2018-02-17 12:22:21.828419
+Epoch 0:
+	Validation Data: 5844 / 10000
+	Test Data: 5804 / 10000
+Epoch 1:
+	Validation Data: 5922 / 10000
+	Test Data: 5881 / 10000
+Epoch 2:
+	Validation Data: 5965 / 10000
+	Test Data: 5934 / 10000
+Epoch 3:
+	Validation Data: 5995 / 10000
+	Test Data: 5953 / 10000
+Epoch 4:
+	Validation Data: 5975 / 10000
+	Test Data: 5942 / 10000
+Epoch 5:
+	Validation Data: 6761 / 10000
+	Test Data: 6806 / 10000
+Epoch 6:
+	Validation Data: 6835 / 10000
+	Test Data: 6836 / 10000
+Epoch 7:
+	Validation Data: 6874 / 10000
+	Test Data: 6893 / 10000
+Epoch 8:
+	Validation Data: 6869 / 10000
+	Test Data: 6882 / 10000
+Epoch 9:
+	Validation Data: 6874 / 10000
+	Test Data: 6901 / 10000
+Epoch 10:
+	Validation Data: 6853 / 10000
+	Test Data: 6884 / 10000
+Epoch 11:
+	Validation Data: 6893 / 10000
+	Test Data: 6918 / 10000
+Epoch 12:
+	Validation Data: 6919 / 10000
+	Test Data: 6927 / 10000
+Epoch 13:
+	Validation Data: 6947 / 10000
+	Test Data: 6974 / 10000
+Epoch 14:
+	Validation Data: 6915 / 10000
+	Test Data: 6932 / 10000
+Epoch 15:
+	Validation Data: 6929 / 10000
+	Test Data: 6952 / 10000
+Epoch 16:
+	Validation Data: 6932 / 10000
+	Test Data: 6953 / 10000
+Epoch 17:
+	Validation Data: 6952 / 10000
+	Test Data: 6968 / 10000
+Epoch 18:
+	Validation Data: 6957 / 10000
+	Test Data: 6967 / 10000
+Epoch 19:
+	Validation Data: 6950 / 10000
+	Test Data: 6963 / 10000
+Epoch 20:
+	Validation Data: 6950 / 10000
+	Test Data: 6971 / 10000
+Epoch 21:
+	Validation Data: 6926 / 10000
+	Test Data: 6963 / 10000
+Epoch 22:
+	Validation Data: 6973 / 10000
+	Test Data: 6984 / 10000
+Epoch 23:
+	Validation Data: 6982 / 10000
+	Test Data: 6996 / 10000
+Epoch 24:
+	Validation Data: 6974 / 10000
+	Test Data: 7008 / 10000
+Epoch 25:
+	Validation Data: 6974 / 10000
+	Test Data: 7017 / 10000
+Epoch 26:
+	Validation Data: 7008 / 10000
+	Test Data: 7020 / 10000
+Epoch 27:
+	Validation Data: 7064 / 10000
+	Test Data: 7070 / 10000
+Epoch 28:
+	Validation Data: 7065 / 10000
+	Test Data: 7057 / 10000
+Epoch 29:
+	Validation Data: 7112 / 10000
+	Test Data: 7121 / 10000
+Epoch 30:
+	Validation Data: 7692 / 10000
+	Test Data: 7705 / 10000
+Epoch 31:
+	Validation Data: 7738 / 10000
+	Test Data: 7749 / 10000
+Epoch 32:
+	Validation Data: 7720 / 10000
+	Test Data: 7731 / 10000
+Epoch 33:
+	Validation Data: 7745 / 10000
+	Test Data: 7777 / 10000
+Epoch 34:
+	Validation Data: 7731 / 10000
+	Test Data: 7754 / 10000
+Epoch 35:
+	Validation Data: 7758 / 10000
+	Test Data: 7776 / 10000
+Epoch 36:
+	Validation Data: 7756 / 10000
+	Test Data: 7771 / 10000
+Epoch 37:
+	Validation Data: 7744 / 10000
+	Test Data: 7770 / 10000
+Epoch 38:
+	Validation Data: 7772 / 10000
+	Test Data: 7801 / 10000
+Epoch 39:
+	Validation Data: 7750 / 10000
+	Test Data: 7794 / 10000
+Epoch 40:
+	Validation Data: 7765 / 10000
+	Test Data: 7789 / 10000
+Epoch 41:
+	Validation Data: 7804 / 10000
+	Test Data: 7809 / 10000
+Epoch 42:
+	Validation Data: 7756 / 10000
+	Test Data: 7756 / 10000
+Epoch 43:
+	Validation Data: 7763 / 10000
+	Test Data: 7793 / 10000
+Epoch 44:
+	Validation Data: 7775 / 10000
+	Test Data: 7784 / 10000
+Epoch 45:
+	Validation Data: 7768 / 10000
+	Test Data: 7793 / 10000
+Epoch 46:
+	Validation Data: 7770 / 10000
+	Test Data: 7789 / 10000
+Epoch 47:
+	Validation Data: 7780 / 10000
+	Test Data: 7806 / 10000
+Epoch 48:
+	Validation Data: 7786 / 10000
+	Test Data: 7789 / 10000
+Epoch 49:
+	Validation Data: 7785 / 10000
+	Test Data: 7807 / 10000
+Epoch 50:
+	Validation Data: 7794 / 10000
+	Test Data: 7811 / 10000
+Epoch 51:
+	Validation Data: 7776 / 10000
+	Test Data: 7815 / 10000
+Epoch 52:
+	Validation Data: 7786 / 10000
+	Test Data: 7818 / 10000
+Epoch 53:
+	Validation Data: 7773 / 10000
+	Test Data: 7809 / 10000
+Epoch 54:
+	Validation Data: 7774 / 10000
+	Test Data: 7801 / 10000
+Epoch 55:
+	Validation Data: 7794 / 10000
+	Test Data: 7813 / 10000
+Epoch 56:
+	Validation Data: 7798 / 10000
+	Test Data: 7818 / 10000
+Epoch 57:
+	Validation Data: 7786 / 10000
+	Test Data: 7814 / 10000
+Epoch 58:
+	Validation Data: 7792 / 10000
+	Test Data: 7817 / 10000
+Epoch 59:
+	Validation Data: 7798 / 10000
+	Test Data: 7822 / 10000
+Epoch 60:
+	Validation Data: 7795 / 10000
+	Test Data: 7827 / 10000
+Epoch 61:
+	Validation Data: 7804 / 10000
+	Test Data: 7818 / 10000
+Epoch 62:
+	Validation Data: 7801 / 10000
+	Test Data: 7816 / 10000
+Epoch 63:
+	Validation Data: 7794 / 10000
+	Test Data: 7815 / 10000
+Epoch 64:
+	Validation Data: 7799 / 10000
+	Test Data: 7822 / 10000
+Epoch 65:
+	Validation Data: 7800 / 10000
+	Test Data: 7819 / 10000
+Epoch 66:
+	Validation Data: 7797 / 10000
+	Test Data: 7824 / 10000
+Epoch 67:
+	Validation Data: 7793 / 10000
+	Test Data: 7817 / 10000
+Epoch 68:
+	Validation Data: 7799 / 10000
+	Test Data: 7824 / 10000
+Epoch 69:
+	Validation Data: 7803 / 10000
+	Test Data: 7829 / 10000
+Epoch 70:
+	Validation Data: 7802 / 10000
+	Test Data: 7829 / 10000
+Epoch 71:
+	Validation Data: 7801 / 10000
+	Test Data: 7831 / 10000
+Epoch 72:
+	Validation Data: 7802 / 10000
+	Test Data: 7830 / 10000
+Epoch 73:
+	Validation Data: 7808 / 10000
+	Test Data: 7833 / 10000
+Epoch 74:
+	Validation Data: 7809 / 10000
+	Test Data: 7828 / 10000
+End Time:2018-02-17 12:36:56.160618
+
+Iteration: 1
+Start Time:2018-02-17 12:36:56.160670
+Epoch 0:
+	Validation Data: 4741 / 10000
+	Test Data: 4742 / 10000
+Epoch 1:
+	Validation Data: 5787 / 10000
+	Test Data: 5742 / 10000
+Epoch 2:
+	Validation Data: 5886 / 10000
+	Test Data: 5844 / 10000
+Epoch 3:
+	Validation Data: 6076 / 10000
+	Test Data: 6038 / 10000
+Epoch 4:
+	Validation Data: 6813 / 10000
+	Test Data: 6729 / 10000
+Epoch 5:
+	Validation Data: 6867 / 10000
+	Test Data: 6764 / 10000
+Epoch 6:
+	Validation Data: 6832 / 10000
+	Test Data: 6762 / 10000
+Epoch 7:
+	Validation Data: 6865 / 10000
+	Test Data: 6772 / 10000
+Epoch 8:
+	Validation Data: 6865 / 10000
+	Test Data: 6816 / 10000
+Epoch 9:
+	Validation Data: 6896 / 10000
+	Test Data: 6799 / 10000
+Epoch 10:
+	Validation Data: 6912 / 10000
+	Test Data: 6821 / 10000
+Epoch 11:
+	Validation Data: 6948 / 10000
+	Test Data: 6861 / 10000
+Epoch 12:
+	Validation Data: 7040 / 10000
+	Test Data: 6930 / 10000
+Epoch 13:
+	Validation Data: 7708 / 10000
+	Test Data: 7679 / 10000
+Epoch 14:
+	Validation Data: 7749 / 10000
+	Test Data: 7710 / 10000
+Epoch 15:
+	Validation Data: 7763 / 10000
+	Test Data: 7746 / 10000
+Epoch 16:
+	Validation Data: 7742 / 10000
+	Test Data: 7720 / 10000
+Epoch 17:
+	Validation Data: 7755 / 10000
+	Test Data: 7694 / 10000
+Epoch 18:
+	Validation Data: 7752 / 10000
+	Test Data: 7737 / 10000
+Epoch 19:
+	Validation Data: 7773 / 10000
+	Test Data: 7753 / 10000
+Epoch 20:
+	Validation Data: 7783 / 10000
+	Test Data: 7743 / 10000
+Epoch 21:
+	Validation Data: 7798 / 10000
+	Test Data: 7754 / 10000
+Epoch 22:
+	Validation Data: 7790 / 10000
+	Test Data: 7754 / 10000
+Epoch 23:
+	Validation Data: 7779 / 10000
+	Test Data: 7755 / 10000
+Epoch 24:
+	Validation Data: 7773 / 10000
+	Test Data: 7742 / 10000
+Epoch 25:
+	Validation Data: 7775 / 10000
+	Test Data: 7764 / 10000
+Epoch 26:
+	Validation Data: 7804 / 10000
+	Test Data: 7771 / 10000
+Epoch 27:
+	Validation Data: 7778 / 10000
+	Test Data: 7758 / 10000
+Epoch 28:
+	Validation Data: 7792 / 10000
+	Test Data: 7758 / 10000
+Epoch 29:
+	Validation Data: 7779 / 10000
+	Test Data: 7773 / 10000
+Epoch 30:
+	Validation Data: 7800 / 10000
+	Test Data: 7781 / 10000
+Epoch 31:
+	Validation Data: 7781 / 10000
+	Test Data: 7767 / 10000
+Epoch 32:
+	Validation Data: 7794 / 10000
+	Test Data: 7763 / 10000
+Epoch 33:
+	Validation Data: 7803 / 10000
+	Test Data: 7776 / 10000
+Epoch 34:
+	Validation Data: 7796 / 10000
+	Test Data: 7791 / 10000
+Epoch 35:
+	Validation Data: 7810 / 10000
+	Test Data: 7785 / 10000
+Epoch 36:
+	Validation Data: 7792 / 10000
+	Test Data: 7784 / 10000
+Epoch 37:
+	Validation Data: 7810 / 10000
+	Test Data: 7798 / 10000
+Epoch 38:
+	Validation Data: 7813 / 10000
+	Test Data: 7790 / 10000
+Epoch 39:
+	Validation Data: 7811 / 10000
+	Test Data: 7801 / 10000
+Epoch 40:
+	Validation Data: 7808 / 10000
+	Test Data: 7790 / 10000
+Epoch 41:
+	Validation Data: 7821 / 10000
+	Test Data: 7806 / 10000
+Epoch 42:
+	Validation Data: 7829 / 10000
+	Test Data: 7816 / 10000
+Epoch 43:
+	Validation Data: 7820 / 10000
+	Test Data: 7813 / 10000
+Epoch 44:
+	Validation Data: 7829 / 10000
+	Test Data: 7813 / 10000
+Epoch 45:
+	Validation Data: 7825 / 10000
+	Test Data: 7816 / 10000
+Epoch 46:
+	Validation Data: 7818 / 10000
+	Test Data: 7814 / 10000
+Epoch 47:
+	Validation Data: 7820 / 10000
+	Test Data: 7809 / 10000
+Epoch 48:
+	Validation Data: 7829 / 10000
+	Test Data: 7809 / 10000
+Epoch 49:
+	Validation Data: 7824 / 10000
+	Test Data: 7808 / 10000
+Epoch 50:
+	Validation Data: 7829 / 10000
+	Test Data: 7814 / 10000
+Epoch 51:
+	Validation Data: 7822 / 10000
+	Test Data: 7808 / 10000
+Epoch 52:
+	Validation Data: 7821 / 10000
+	Test Data: 7810 / 10000
+Epoch 53:
+	Validation Data: 7835 / 10000
+	Test Data: 7814 / 10000
+Epoch 54:
+	Validation Data: 7834 / 10000
+	Test Data: 7817 / 10000
+Epoch 55:
+	Validation Data: 7842 / 10000
+	Test Data: 7822 / 10000
+Epoch 56:
+	Validation Data: 7842 / 10000
+	Test Data: 7816 / 10000
+Epoch 57:
+	Validation Data: 7841 / 10000
+	Test Data: 7816 / 10000
+Epoch 58:
+	Validation Data: 7842 / 10000
+	Test Data: 7818 / 10000
+Epoch 59:
+	Validation Data: 7854 / 10000
+	Test Data: 7824 / 10000
+Epoch 60:
+	Validation Data: 7847 / 10000
+	Test Data: 7821 / 10000
+Epoch 61:
+	Validation Data: 7847 / 10000
+	Test Data: 7828 / 10000
+Epoch 62:
+	Validation Data: 7848 / 10000
+	Test Data: 7824 / 10000
+Epoch 63:
+	Validation Data: 7859 / 10000
+	Test Data: 7829 / 10000
+Epoch 64:
+	Validation Data: 7856 / 10000
+	Test Data: 7838 / 10000
+Epoch 65:
+	Validation Data: 7857 / 10000
+	Test Data: 7838 / 10000
+Epoch 66:
+	Validation Data: 7866 / 10000
+	Test Data: 7841 / 10000
+Epoch 67:
+	Validation Data: 7862 / 10000
+	Test Data: 7848 / 10000
+Epoch 68:
+	Validation Data: 7865 / 10000
+	Test Data: 7856 / 10000
+Epoch 69:
+	Validation Data: 7873 / 10000
+	Test Data: 7863 / 10000
+Epoch 70:
+	Validation Data: 7879 / 10000
+	Test Data: 7879 / 10000
+Epoch 71:
+	Validation Data: 7894 / 10000
+	Test Data: 7886 / 10000
+Epoch 72:
+	Validation Data: 7904 / 10000
+	Test Data: 7891 / 10000
+Epoch 73:
+	Validation Data: 7913 / 10000
+	Test Data: 7900 / 10000
+Epoch 74:
+	Validation Data: 7935 / 10000
+	Test Data: 7919 / 10000
+End Time:2018-02-17 12:51:29.180427
+
+Iteration: 2
+Start Time:2018-02-17 12:51:29.180479
+Epoch 0:
+	Validation Data: 5925 / 10000
+	Test Data: 5870 / 10000
+Epoch 1:
+	Validation Data: 7625 / 10000
+	Test Data: 7618 / 10000
+Epoch 2:
+	Validation Data: 7674 / 10000
+	Test Data: 7661 / 10000
+Epoch 3:
+	Validation Data: 7729 / 10000
+	Test Data: 7724 / 10000
+Epoch 4:
+	Validation Data: 7786 / 10000
+	Test Data: 7790 / 10000
+Epoch 5:
+	Validation Data: 7762 / 10000
+	Test Data: 7776 / 10000
+Epoch 6:
+	Validation Data: 7773 / 10000
+	Test Data: 7777 / 10000
+Epoch 7:
+	Validation Data: 7787 / 10000
+	Test Data: 7792 / 10000
+Epoch 8:
+	Validation Data: 7809 / 10000
+	Test Data: 7798 / 10000
+Epoch 9:
+	Validation Data: 7791 / 10000
+	Test Data: 7775 / 10000
+Epoch 10:
+	Validation Data: 7844 / 10000
+	Test Data: 7818 / 10000
+Epoch 11:
+	Validation Data: 8680 / 10000
+	Test Data: 8639 / 10000
+Epoch 12:
+	Validation Data: 8714 / 10000
+	Test Data: 8672 / 10000
+Epoch 13:
+	Validation Data: 8724 / 10000
+	Test Data: 8703 / 10000
+Epoch 14:
+	Validation Data: 8731 / 10000
+	Test Data: 8739 / 10000
+Epoch 15:
+	Validation Data: 8727 / 10000
+	Test Data: 8701 / 10000
+Epoch 16:
+	Validation Data: 8728 / 10000
+	Test Data: 8702 / 10000
+Epoch 17:
+	Validation Data: 8721 / 10000
+	Test Data: 8713 / 10000
+Epoch 18:
+	Validation Data: 8762 / 10000
+	Test Data: 8736 / 10000
+Epoch 19:
+	Validation Data: 8754 / 10000
+	Test Data: 8767 / 10000
+Epoch 20:
+	Validation Data: 8746 / 10000
+	Test Data: 8725 / 10000
+Epoch 21:
+	Validation Data: 8736 / 10000
+	Test Data: 8734 / 10000
+Epoch 22:
+	Validation Data: 8750 / 10000
+	Test Data: 8720 / 10000
+Epoch 23:
+	Validation Data: 8767 / 10000
+	Test Data: 8750 / 10000
+Epoch 24:
+	Validation Data: 8756 / 10000
+	Test Data: 8757 / 10000
+Epoch 25:
+	Validation Data: 8779 / 10000
+	Test Data: 8790 / 10000
+Epoch 26:
+	Validation Data: 8763 / 10000
+	Test Data: 8772 / 10000
+Epoch 27:
+	Validation Data: 8761 / 10000
+	Test Data: 8772 / 10000
+Epoch 28:
+	Validation Data: 8769 / 10000
+	Test Data: 8767 / 10000
+Epoch 29:
+	Validation Data: 8772 / 10000
+	Test Data: 8782 / 10000
+Epoch 30:
+	Validation Data: 8788 / 10000
+	Test Data: 8775 / 10000
+Epoch 31:
+	Validation Data: 8802 / 10000
+	Test Data: 8814 / 10000
+Epoch 32:
+	Validation Data: 8792 / 10000
+	Test Data: 8789 / 10000
+Epoch 33:
+	Validation Data: 8790 / 10000
+	Test Data: 8815 / 10000
+Epoch 34:
+	Validation Data: 8802 / 10000
+	Test Data: 8822 / 10000
+Epoch 35:
+	Validation Data: 8805 / 10000
+	Test Data: 8830 / 10000
+Epoch 36:
+	Validation Data: 8793 / 10000
+	Test Data: 8833 / 10000
+Epoch 37:
+	Validation Data: 8809 / 10000
+	Test Data: 8849 / 10000
+Epoch 38:
+	Validation Data: 8819 / 10000
+	Test Data: 8845 / 10000
+Epoch 39:
+	Validation Data: 8812 / 10000
+	Test Data: 8851 / 10000
+Epoch 40:
+	Validation Data: 8831 / 10000
+	Test Data: 8860 / 10000
+Epoch 41:
+	Validation Data: 8825 / 10000
+	Test Data: 8860 / 10000
+Epoch 42:
+	Validation Data: 8819 / 10000
+	Test Data: 8855 / 10000
+Epoch 43:
+	Validation Data: 8826 / 10000
+	Test Data: 8856 / 10000
+Epoch 44:
+	Validation Data: 8834 / 10000
+	Test Data: 8870 / 10000
+Epoch 45:
+	Validation Data: 8838 / 10000
+	Test Data: 8880 / 10000
+Epoch 46:
+	Validation Data: 8846 / 10000
+	Test Data: 8885 / 10000
+Epoch 47:
+	Validation Data: 8844 / 10000
+	Test Data: 8886 / 10000
+Epoch 48:
+	Validation Data: 8864 / 10000
+	Test Data: 8899 / 10000
+Epoch 49:
+	Validation Data: 8865 / 10000
+	Test Data: 8901 / 10000
+Epoch 50:
+	Validation Data: 8853 / 10000
+	Test Data: 8899 / 10000
+Epoch 51:
+	Validation Data: 8869 / 10000
+	Test Data: 8932 / 10000
+Epoch 52:
+	Validation Data: 8884 / 10000
+	Test Data: 8921 / 10000
+Epoch 53:
+	Validation Data: 8892 / 10000
+	Test Data: 8937 / 10000
+Epoch 54:
+	Validation Data: 8902 / 10000
+	Test Data: 8954 / 10000
+Epoch 55:
+	Validation Data: 8933 / 10000
+	Test Data: 8978 / 10000
+Epoch 56:
+	Validation Data: 8949 / 10000
+	Test Data: 9004 / 10000
+Epoch 57:
+	Validation Data: 8969 / 10000
+	Test Data: 9032 / 10000
+Epoch 58:
+	Validation Data: 9030 / 10000
+	Test Data: 9107 / 10000
+Epoch 59:
+	Validation Data: 9254 / 10000
+	Test Data: 9325 / 10000
+Epoch 60:
+	Validation Data: 9668 / 10000
+	Test Data: 9669 / 10000
+Epoch 61:
+	Validation Data: 9668 / 10000
+	Test Data: 9668 / 10000
+Epoch 62:
+	Validation Data: 9681 / 10000
+	Test Data: 9682 / 10000
+Epoch 63:
+	Validation Data: 9678 / 10000
+	Test Data: 9674 / 10000
+Epoch 64:
+	Validation Data: 9667 / 10000
+	Test Data: 9665 / 10000
+Epoch 65:
+	Validation Data: 9676 / 10000
+	Test Data: 9661 / 10000
+Epoch 66:
+	Validation Data: 9676 / 10000
+	Test Data: 9665 / 10000
+Epoch 67:
+	Validation Data: 9683 / 10000
+	Test Data: 9685 / 10000
+Epoch 68:
+	Validation Data: 9679 / 10000
+	Test Data: 9679 / 10000
+Epoch 69:
+	Validation Data: 9679 / 10000
+	Test Data: 9665 / 10000
+Epoch 70:
+	Validation Data: 9667 / 10000
+	Test Data: 9659 / 10000
+Epoch 71:
+	Validation Data: 9681 / 10000
+	Test Data: 9666 / 10000
+Epoch 72:
+	Validation Data: 9679 / 10000
+	Test Data: 9672 / 10000
+Epoch 73:
+	Validation Data: 9678 / 10000
+	Test Data: 9674 / 10000
+Epoch 74:
+	Validation Data: 9669 / 10000
+	Test Data: 9649 / 10000
+End Time:2018-02-17 13:06:02.860309
+
+Iteration: 3
+Start Time:2018-02-17 13:06:02.860362
+Epoch 0:
+	Validation Data: 6591 / 10000
+	Test Data: 6545 / 10000
+Epoch 1:
+	Validation Data: 8398 / 10000
+	Test Data: 8381 / 10000
+Epoch 2:
+	Validation Data: 8465 / 10000
+	Test Data: 8466 / 10000
+Epoch 3:
+	Validation Data: 8558 / 10000
+	Test Data: 8555 / 10000
+Epoch 4:
+	Validation Data: 8626 / 10000
+	Test Data: 8619 / 10000
+Epoch 5:
+	Validation Data: 8642 / 10000
+	Test Data: 8644 / 10000
+Epoch 6:
+	Validation Data: 8736 / 10000
+	Test Data: 8759 / 10000
+Epoch 7:
+	Validation Data: 9542 / 10000
+	Test Data: 9553 / 10000
+Epoch 8:
+	Validation Data: 9572 / 10000
+	Test Data: 9564 / 10000
+Epoch 9:
+	Validation Data: 9582 / 10000
+	Test Data: 9572 / 10000
+Epoch 10:
+	Validation Data: 9619 / 10000
+	Test Data: 9600 / 10000
+Epoch 11:
+	Validation Data: 9616 / 10000
+	Test Data: 9595 / 10000
+Epoch 12:
+	Validation Data: 9624 / 10000
+	Test Data: 9600 / 10000
+Epoch 13:
+	Validation Data: 9638 / 10000
+	Test Data: 9614 / 10000
+Epoch 14:
+	Validation Data: 9645 / 10000
+	Test Data: 9598 / 10000
+Epoch 15:
+	Validation Data: 9646 / 10000
+	Test Data: 9627 / 10000
+Epoch 16:
+	Validation Data: 9654 / 10000
+	Test Data: 9618 / 10000
+Epoch 17:
+	Validation Data: 9668 / 10000
+	Test Data: 9632 / 10000
+Epoch 18:
+	Validation Data: 9663 / 10000
+	Test Data: 9644 / 10000
+Epoch 19:
+	Validation Data: 9681 / 10000
+	Test Data: 9640 / 10000
+Epoch 20:
+	Validation Data: 9666 / 10000
+	Test Data: 9620 / 10000
+Epoch 21:
+	Validation Data: 9674 / 10000
+	Test Data: 9655 / 10000
+Epoch 22:
+	Validation Data: 9668 / 10000
+	Test Data: 9642 / 10000
+Epoch 23:
+	Validation Data: 9679 / 10000
+	Test Data: 9656 / 10000
+Epoch 24:
+	Validation Data: 9665 / 10000
+	Test Data: 9662 / 10000
+Epoch 25:
+	Validation Data: 9681 / 10000
+	Test Data: 9661 / 10000
+Epoch 26:
+	Validation Data: 9664 / 10000
+	Test Data: 9659 / 10000
+Epoch 27:
+	Validation Data: 9673 / 10000
+	Test Data: 9649 / 10000
+Epoch 28:
+	Validation Data: 9674 / 10000
+	Test Data: 9663 / 10000
+Epoch 29:
+	Validation Data: 9687 / 10000
+	Test Data: 9665 / 10000
+Epoch 30:
+	Validation Data: 9677 / 10000
+	Test Data: 9653 / 10000
+Epoch 31:
+	Validation Data: 9681 / 10000
+	Test Data: 9650 / 10000
+Epoch 32:
+	Validation Data: 9684 / 10000
+	Test Data: 9670 / 10000
+Epoch 33:
+	Validation Data: 9689 / 10000
+	Test Data: 9666 / 10000
+Epoch 34:
+	Validation Data: 9690 / 10000
+	Test Data: 9667 / 10000
+Epoch 35:
+	Validation Data: 9687 / 10000
+	Test Data: 9664 / 10000
+Epoch 36:
+	Validation Data: 9692 / 10000
+	Test Data: 9671 / 10000
+Epoch 37:
+	Validation Data: 9687 / 10000
+	Test Data: 9662 / 10000
+Epoch 38:
+	Validation Data: 9694 / 10000
+	Test Data: 9670 / 10000
+Epoch 39:
+	Validation Data: 9670 / 10000
+	Test Data: 9658 / 10000
+Epoch 40:
+	Validation Data: 9687 / 10000
+	Test Data: 9676 / 10000
+Epoch 41:
+	Validation Data: 9687 / 10000
+	Test Data: 9675 / 10000
+Epoch 42:
+	Validation Data: 9691 / 10000
+	Test Data: 9673 / 10000
+Epoch 43:
+	Validation Data: 9677 / 10000
+	Test Data: 9670 / 10000
+Epoch 44:
+	Validation Data: 9690 / 10000
+	Test Data: 9673 / 10000
+Epoch 45:
+	Validation Data: 9688 / 10000
+	Test Data: 9671 / 10000
+Epoch 46:
+	Validation Data: 9694 / 10000
+	Test Data: 9671 / 10000
+Epoch 47:
+	Validation Data: 9693 / 10000
+	Test Data: 9677 / 10000
+Epoch 48:
+	Validation Data: 9688 / 10000
+	Test Data: 9668 / 10000
+Epoch 49:
+	Validation Data: 9689 / 10000
+	Test Data: 9671 / 10000
+Epoch 50:
+	Validation Data: 9689 / 10000
+	Test Data: 9679 / 10000
+Epoch 51:
+	Validation Data: 9680 / 10000
+	Test Data: 9680 / 10000
+Epoch 52:
+	Validation Data: 9689 / 10000
+	Test Data: 9673 / 10000
+Epoch 53:
+	Validation Data: 9691 / 10000
+	Test Data: 9670 / 10000
+Epoch 54:
+	Validation Data: 9682 / 10000
+	Test Data: 9677 / 10000
+Epoch 55:
+	Validation Data: 9682 / 10000
+	Test Data: 9674 / 10000
+Epoch 56:
+	Validation Data: 9684 / 10000
+	Test Data: 9681 / 10000
+Epoch 57:
+	Validation Data: 9685 / 10000
+	Test Data: 9679 / 10000
+Epoch 58:
+	Validation Data: 9692 / 10000
+	Test Data: 9682 / 10000
+Epoch 59:
+	Validation Data: 9690 / 10000
+	Test Data: 9674 / 10000
+Epoch 60:
+	Validation Data: 9684 / 10000
+	Test Data: 9680 / 10000
+Epoch 61:
+	Validation Data: 9690 / 10000
+	Test Data: 9678 / 10000
+Epoch 62:
+	Validation Data: 9683 / 10000
+	Test Data: 9678 / 10000
+Epoch 63:
+	Validation Data: 9688 / 10000
+	Test Data: 9679 / 10000
+Epoch 64:
+	Validation Data: 9691 / 10000
+	Test Data: 9679 / 10000
+Epoch 65:
+	Validation Data: 9684 / 10000
+	Test Data: 9676 / 10000
+Epoch 66:
+	Validation Data: 9689 / 10000
+	Test Data: 9673 / 10000
+Epoch 67:
+	Validation Data: 9692 / 10000
+	Test Data: 9683 / 10000
+Epoch 68:
+	Validation Data: 9686 / 10000
+	Test Data: 9680 / 10000
+Epoch 69:
+	Validation Data: 9692 / 10000
+	Test Data: 9679 / 10000
+Epoch 70:
+	Validation Data: 9690 / 10000
+	Test Data: 9675 / 10000
+Epoch 71:
+	Validation Data: 9688 / 10000
+	Test Data: 9678 / 10000
+Epoch 72:
+	Validation Data: 9689 / 10000
+	Test Data: 9678 / 10000
+Epoch 73:
+	Validation Data: 9691 / 10000
+	Test Data: 9679 / 10000
+Epoch 74:
+	Validation Data: 9693 / 10000
+	Test Data: 9680 / 10000
+End Time:2018-02-17 13:20:31.904235
+
+Iteration: 4
+Start Time:2018-02-17 13:20:31.904287
+Epoch 0:
+	Validation Data: 6683 / 10000
+	Test Data: 6631 / 10000
+Epoch 1:
+	Validation Data: 6709 / 10000
+	Test Data: 6675 / 10000
+Epoch 2:
+	Validation Data: 6781 / 10000
+	Test Data: 6788 / 10000
+Epoch 3:
+	Validation Data: 6799 / 10000
+	Test Data: 6767 / 10000
+Epoch 4:
+	Validation Data: 6780 / 10000
+	Test Data: 6776 / 10000
+Epoch 5:
+	Validation Data: 6797 / 10000
+	Test Data: 6784 / 10000
+Epoch 6:
+	Validation Data: 6891 / 10000
+	Test Data: 6903 / 10000
+Epoch 7:
+	Validation Data: 7036 / 10000
+	Test Data: 7021 / 10000
+Epoch 8:
+	Validation Data: 7728 / 10000
+	Test Data: 7709 / 10000
+Epoch 9:
+	Validation Data: 7727 / 10000
+	Test Data: 7698 / 10000
+Epoch 10:
+	Validation Data: 7775 / 10000
+	Test Data: 7768 / 10000
+Epoch 11:
+	Validation Data: 7801 / 10000
+	Test Data: 7774 / 10000
+Epoch 12:
+	Validation Data: 7784 / 10000
+	Test Data: 7753 / 10000
+Epoch 13:
+	Validation Data: 7797 / 10000
+	Test Data: 7784 / 10000
+Epoch 14:
+	Validation Data: 7800 / 10000
+	Test Data: 7763 / 10000
+Epoch 15:
+	Validation Data: 7828 / 10000
+	Test Data: 7815 / 10000
+Epoch 16:
+	Validation Data: 7819 / 10000
+	Test Data: 7787 / 10000
+Epoch 17:
+	Validation Data: 7841 / 10000
+	Test Data: 7822 / 10000
+Epoch 18:
+	Validation Data: 7788 / 10000
+	Test Data: 7770 / 10000
+Epoch 19:
+	Validation Data: 7831 / 10000
+	Test Data: 7801 / 10000
+Epoch 20:
+	Validation Data: 7930 / 10000
+	Test Data: 7904 / 10000
+Epoch 21:
+	Validation Data: 7862 / 10000
+	Test Data: 7830 / 10000
+Epoch 22:
+	Validation Data: 7884 / 10000
+	Test Data: 7846 / 10000
+Epoch 23:
+	Validation Data: 7908 / 10000
+	Test Data: 7887 / 10000
+Epoch 24:
+	Validation Data: 7943 / 10000
+	Test Data: 7903 / 10000
+Epoch 25:
+	Validation Data: 7914 / 10000
+	Test Data: 7892 / 10000
+Epoch 26:
+	Validation Data: 8002 / 10000
+	Test Data: 7974 / 10000
+Epoch 27:
+	Validation Data: 7995 / 10000
+	Test Data: 7964 / 10000
+Epoch 28:
+	Validation Data: 8139 / 10000
+	Test Data: 8109 / 10000
+Epoch 29:
+	Validation Data: 8720 / 10000
+	Test Data: 8721 / 10000
+Epoch 30:
+	Validation Data: 8730 / 10000
+	Test Data: 8730 / 10000
+Epoch 31:
+	Validation Data: 8711 / 10000
+	Test Data: 8734 / 10000
+Epoch 32:
+	Validation Data: 8731 / 10000
+	Test Data: 8748 / 10000
+Epoch 33:
+	Validation Data: 8729 / 10000
+	Test Data: 8743 / 10000
+Epoch 34:
+	Validation Data: 8733 / 10000
+	Test Data: 8752 / 10000
+Epoch 35:
+	Validation Data: 8725 / 10000
+	Test Data: 8746 / 10000
+Epoch 36:
+	Validation Data: 8726 / 10000
+	Test Data: 8753 / 10000
+Epoch 37:
+	Validation Data: 8749 / 10000
+	Test Data: 8763 / 10000
+Epoch 38:
+	Validation Data: 8727 / 10000
+	Test Data: 8753 / 10000
+Epoch 39:
+	Validation Data: 8726 / 10000
+	Test Data: 8743 / 10000
+Epoch 40:
+	Validation Data: 8737 / 10000
+	Test Data: 8764 / 10000
+Epoch 41:
+	Validation Data: 8744 / 10000
+	Test Data: 8755 / 10000
+Epoch 42:
+	Validation Data: 8751 / 10000
+	Test Data: 8750 / 10000
+Epoch 43:
+	Validation Data: 8757 / 10000
+	Test Data: 8753 / 10000
+Epoch 44:
+	Validation Data: 8753 / 10000
+	Test Data: 8760 / 10000
+Epoch 45:
+	Validation Data: 8745 / 10000
+	Test Data: 8764 / 10000
+Epoch 46:
+	Validation Data: 8758 / 10000
+	Test Data: 8748 / 10000
+Epoch 47:
+	Validation Data: 8756 / 10000
+	Test Data: 8768 / 10000
+Epoch 48:
+	Validation Data: 8759 / 10000
+	Test Data: 8774 / 10000
+Epoch 49:
+	Validation Data: 8746 / 10000
+	Test Data: 8772 / 10000
+Epoch 50:
+	Validation Data: 8759 / 10000
+	Test Data: 8759 / 10000
+Epoch 51:
+	Validation Data: 8752 / 10000
+	Test Data: 8778 / 10000
+Epoch 52:
+	Validation Data: 8764 / 10000
+	Test Data: 8771 / 10000
+Epoch 53:
+	Validation Data: 8755 / 10000
+	Test Data: 8765 / 10000
+Epoch 54:
+	Validation Data: 8758 / 10000
+	Test Data: 8767 / 10000
+Epoch 55:
+	Validation Data: 8756 / 10000
+	Test Data: 8777 / 10000
+Epoch 56:
+	Validation Data: 8760 / 10000
+	Test Data: 8769 / 10000
+Epoch 57:
+	Validation Data: 8759 / 10000
+	Test Data: 8764 / 10000
+Epoch 58:
+	Validation Data: 8757 / 10000
+	Test Data: 8769 / 10000
+Epoch 59:
+	Validation Data: 8760 / 10000
+	Test Data: 8768 / 10000
+Epoch 60:
+	Validation Data: 8752 / 10000
+	Test Data: 8764 / 10000
+Epoch 61:
+	Validation Data: 8759 / 10000
+	Test Data: 8771 / 10000
+Epoch 62:
+	Validation Data: 8756 / 10000
+	Test Data: 8771 / 10000
+Epoch 63:
+	Validation Data: 8754 / 10000
+	Test Data: 8771 / 10000
+Epoch 64:
+	Validation Data: 8756 / 10000
+	Test Data: 8773 / 10000
+Epoch 65:
+	Validation Data: 8756 / 10000
+	Test Data: 8772 / 10000
+Epoch 66:
+	Validation Data: 8754 / 10000
+	Test Data: 8764 / 10000
+Epoch 67:
+	Validation Data: 8761 / 10000
+	Test Data: 8767 / 10000
+Epoch 68:
+	Validation Data: 8756 / 10000
+	Test Data: 8765 / 10000
+Epoch 69:
+	Validation Data: 8755 / 10000
+	Test Data: 8765 / 10000
+Epoch 70:
+	Validation Data: 8759 / 10000
+	Test Data: 8771 / 10000
+Epoch 71:
+	Validation Data: 8755 / 10000
+	Test Data: 8766 / 10000
+Epoch 72:
+	Validation Data: 8750 / 10000
+	Test Data: 8761 / 10000
+Epoch 73:
+	Validation Data: 8755 / 10000
+	Test Data: 8765 / 10000
+Epoch 74:
+	Validation Data: 8754 / 10000
+	Test Data: 8757 / 10000
+End Time:2018-02-17 13:35:03.026067
+
+Set: 3
+		Network Details
+Network layout: [784, 100, 10]
+Number of Epochs: 75
+Batch Size: 8
+Learning Rate: 5.0
+Number of Runs: 5
+
+Iteration: 0
+Start Time:2018-02-17 13:35:03.026134
+Epoch 0:
+	Validation Data: 6472 / 10000
+	Test Data: 6417 / 10000
+Epoch 1:
+	Validation Data: 8522 / 10000
+	Test Data: 8527 / 10000
+Epoch 2:
+	Validation Data: 9419 / 10000
+	Test Data: 9399 / 10000
+Epoch 3:
+	Validation Data: 9495 / 10000
+	Test Data: 9478 / 10000
+Epoch 4:
+	Validation Data: 9506 / 10000
+	Test Data: 9477 / 10000
+Epoch 5:
+	Validation Data: 9561 / 10000
+	Test Data: 9528 / 10000
+Epoch 6:
+	Validation Data: 9596 / 10000
+	Test Data: 9542 / 10000
+Epoch 7:
+	Validation Data: 9604 / 10000
+	Test Data: 9549 / 10000
+Epoch 8:
+	Validation Data: 9614 / 10000
+	Test Data: 9589 / 10000
+Epoch 9:
+	Validation Data: 9640 / 10000
+	Test Data: 9604 / 10000
+Epoch 10:
+	Validation Data: 9656 / 10000
+	Test Data: 9613 / 10000
+Epoch 11:
+	Validation Data: 9650 / 10000
+	Test Data: 9607 / 10000
+Epoch 12:
+	Validation Data: 9665 / 10000
+	Test Data: 9651 / 10000
+Epoch 13:
+	Validation Data: 9704 / 10000
+	Test Data: 9646 / 10000
+Epoch 14:
+	Validation Data: 9669 / 10000
+	Test Data: 9643 / 10000
+Epoch 15:
+	Validation Data: 9653 / 10000
+	Test Data: 9641 / 10000
+Epoch 16:
+	Validation Data: 9666 / 10000
+	Test Data: 9632 / 10000
+Epoch 17:
+	Validation Data: 9685 / 10000
+	Test Data: 9673 / 10000
+Epoch 18:
+	Validation Data: 9679 / 10000
+	Test Data: 9651 / 10000
+Epoch 19:
+	Validation Data: 9683 / 10000
+	Test Data: 9644 / 10000
+Epoch 20:
+	Validation Data: 9674 / 10000
+	Test Data: 9666 / 10000
+Epoch 21:
+	Validation Data: 9686 / 10000
+	Test Data: 9656 / 10000
+Epoch 22:
+	Validation Data: 9670 / 10000
+	Test Data: 9669 / 10000
+Epoch 23:
+	Validation Data: 9686 / 10000
+	Test Data: 9652 / 10000
+Epoch 24:
+	Validation Data: 9693 / 10000
+	Test Data: 9668 / 10000
+Epoch 25:
+	Validation Data: 9697 / 10000
+	Test Data: 9662 / 10000
+Epoch 26:
+	Validation Data: 9685 / 10000
+	Test Data: 9677 / 10000
+Epoch 27:
+	Validation Data: 9702 / 10000
+	Test Data: 9693 / 10000
+Epoch 28:
+	Validation Data: 9700 / 10000
+	Test Data: 9662 / 10000
+Epoch 29:
+	Validation Data: 9691 / 10000
+	Test Data: 9692 / 10000
+Epoch 30:
+	Validation Data: 9709 / 10000
+	Test Data: 9677 / 10000
+Epoch 31:
+	Validation Data: 9708 / 10000
+	Test Data: 9683 / 10000
+Epoch 32:
+	Validation Data: 9706 / 10000
+	Test Data: 9706 / 10000
+Epoch 33:
+	Validation Data: 9714 / 10000
+	Test Data: 9700 / 10000
+Epoch 34:
+	Validation Data: 9704 / 10000
+	Test Data: 9704 / 10000
+Epoch 35:
+	Validation Data: 9711 / 10000
+	Test Data: 9713 / 10000
+Epoch 36:
+	Validation Data: 9695 / 10000
+	Test Data: 9696 / 10000
+Epoch 37:
+	Validation Data: 9719 / 10000
+	Test Data: 9693 / 10000
+Epoch 38:
+	Validation Data: 9701 / 10000
+	Test Data: 9712 / 10000
+Epoch 39:
+	Validation Data: 9705 / 10000
+	Test Data: 9697 / 10000
+Epoch 40:
+	Validation Data: 9693 / 10000
+	Test Data: 9708 / 10000
+Epoch 41:
+	Validation Data: 9722 / 10000
+	Test Data: 9711 / 10000
+Epoch 42:
+	Validation Data: 9713 / 10000
+	Test Data: 9699 / 10000
+Epoch 43:
+	Validation Data: 9699 / 10000
+	Test Data: 9697 / 10000
+Epoch 44:
+	Validation Data: 9713 / 10000
+	Test Data: 9693 / 10000
+Epoch 45:
+	Validation Data: 9720 / 10000
+	Test Data: 9713 / 10000
+Epoch 46:
+	Validation Data: 9724 / 10000
+	Test Data: 9716 / 10000
+Epoch 47:
+	Validation Data: 9712 / 10000
+	Test Data: 9726 / 10000
+Epoch 48:
+	Validation Data: 9695 / 10000
+	Test Data: 9699 / 10000
+Epoch 49:
+	Validation Data: 9716 / 10000
+	Test Data: 9699 / 10000
+Epoch 50:
+	Validation Data: 9720 / 10000
+	Test Data: 9719 / 10000
+Epoch 51:
+	Validation Data: 9735 / 10000
+	Test Data: 9716 / 10000
+Epoch 52:
+	Validation Data: 9724 / 10000
+	Test Data: 9727 / 10000
+Epoch 53:
+	Validation Data: 9714 / 10000
+	Test Data: 9697 / 10000
+Epoch 54:
+	Validation Data: 9726 / 10000
+	Test Data: 9719 / 10000
+Epoch 55:
+	Validation Data: 9717 / 10000
+	Test Data: 9715 / 10000
+Epoch 56:
+	Validation Data: 9717 / 10000
+	Test Data: 9716 / 10000
+Epoch 57:
+	Validation Data: 9714 / 10000
+	Test Data: 9712 / 10000
+Epoch 58:
+	Validation Data: 9728 / 10000
+	Test Data: 9712 / 10000
+Epoch 59:
+	Validation Data: 9724 / 10000
+	Test Data: 9707 / 10000
+Epoch 60:
+	Validation Data: 9727 / 10000
+	Test Data: 9718 / 10000
+Epoch 61:
+	Validation Data: 9732 / 10000
+	Test Data: 9719 / 10000
+Epoch 62:
+	Validation Data: 9720 / 10000
+	Test Data: 9729 / 10000
+Epoch 63:
+	Validation Data: 9731 / 10000
+	Test Data: 9722 / 10000
+Epoch 64:
+	Validation Data: 9723 / 10000
+	Test Data: 9736 / 10000
+Epoch 65:
+	Validation Data: 9732 / 10000
+	Test Data: 9723 / 10000
+Epoch 66:
+	Validation Data: 9717 / 10000
+	Test Data: 9721 / 10000
+Epoch 67:
+	Validation Data: 9728 / 10000
+	Test Data: 9734 / 10000
+Epoch 68:
+	Validation Data: 9730 / 10000
+	Test Data: 9732 / 10000
+Epoch 69:
+	Validation Data: 9735 / 10000
+	Test Data: 9729 / 10000
+Epoch 70:
+	Validation Data: 9732 / 10000
+	Test Data: 9737 / 10000
+Epoch 71:
+	Validation Data: 9735 / 10000
+	Test Data: 9733 / 10000
+Epoch 72:
+	Validation Data: 9730 / 10000
+	Test Data: 9729 / 10000
+Epoch 73:
+	Validation Data: 9736 / 10000
+	Test Data: 9732 / 10000
+Epoch 74:
+	Validation Data: 9734 / 10000
+	Test Data: 9734 / 10000
+End Time:2018-02-17 13:49:36.459741
+
+Iteration: 1
+Start Time:2018-02-17 13:49:36.459792
+Epoch 0:
+	Validation Data: 5754 / 10000
+	Test Data: 5775 / 10000
+Epoch 1:
+	Validation Data: 6059 / 10000
+	Test Data: 6049 / 10000
+Epoch 2:
+	Validation Data: 6867 / 10000
+	Test Data: 6850 / 10000
+Epoch 3:
+	Validation Data: 6955 / 10000
+	Test Data: 6931 / 10000
+Epoch 4:
+	Validation Data: 7664 / 10000
+	Test Data: 7713 / 10000
+Epoch 5:
+	Validation Data: 7720 / 10000
+	Test Data: 7739 / 10000
+Epoch 6:
+	Validation Data: 7743 / 10000
+	Test Data: 7765 / 10000
+Epoch 7:
+	Validation Data: 7760 / 10000
+	Test Data: 7783 / 10000
+Epoch 8:
+	Validation Data: 7764 / 10000
+	Test Data: 7778 / 10000
+Epoch 9:
+	Validation Data: 7854 / 10000
+	Test Data: 7886 / 10000
+Epoch 10:
+	Validation Data: 7824 / 10000
+	Test Data: 7840 / 10000
+Epoch 11:
+	Validation Data: 7775 / 10000
+	Test Data: 7806 / 10000
+Epoch 12:
+	Validation Data: 7815 / 10000
+	Test Data: 7841 / 10000
+Epoch 13:
+	Validation Data: 7849 / 10000
+	Test Data: 7854 / 10000
+Epoch 14:
+	Validation Data: 7827 / 10000
+	Test Data: 7844 / 10000
+Epoch 15:
+	Validation Data: 7803 / 10000
+	Test Data: 7832 / 10000
+Epoch 16:
+	Validation Data: 7864 / 10000
+	Test Data: 7899 / 10000
+Epoch 17:
+	Validation Data: 7916 / 10000
+	Test Data: 7945 / 10000
+Epoch 18:
+	Validation Data: 7897 / 10000
+	Test Data: 7956 / 10000
+Epoch 19:
+	Validation Data: 7814 / 10000
+	Test Data: 7841 / 10000
+Epoch 20:
+	Validation Data: 7857 / 10000
+	Test Data: 7890 / 10000
+Epoch 21:
+	Validation Data: 7845 / 10000
+	Test Data: 7903 / 10000
+Epoch 22:
+	Validation Data: 7834 / 10000
+	Test Data: 7882 / 10000
+Epoch 23:
+	Validation Data: 7905 / 10000
+	Test Data: 7926 / 10000
+Epoch 24:
+	Validation Data: 7866 / 10000
+	Test Data: 7922 / 10000
+Epoch 25:
+	Validation Data: 7907 / 10000
+	Test Data: 7919 / 10000
+Epoch 26:
+	Validation Data: 7883 / 10000
+	Test Data: 7899 / 10000
+Epoch 27:
+	Validation Data: 7929 / 10000
+	Test Data: 7963 / 10000
+Epoch 28:
+	Validation Data: 7896 / 10000
+	Test Data: 7917 / 10000
+Epoch 29:
+	Validation Data: 7894 / 10000
+	Test Data: 7950 / 10000
+Epoch 30:
+	Validation Data: 7960 / 10000
+	Test Data: 8008 / 10000
+Epoch 31:
+	Validation Data: 7923 / 10000
+	Test Data: 7983 / 10000
+Epoch 32:
+	Validation Data: 7904 / 10000
+	Test Data: 7927 / 10000
+Epoch 33:
+	Validation Data: 7959 / 10000
+	Test Data: 7978 / 10000
+Epoch 34:
+	Validation Data: 7938 / 10000
+	Test Data: 7974 / 10000
+Epoch 35:
+	Validation Data: 7903 / 10000
+	Test Data: 7922 / 10000
+Epoch 36:
+	Validation Data: 7935 / 10000
+	Test Data: 7941 / 10000
+Epoch 37:
+	Validation Data: 7996 / 10000
+	Test Data: 8010 / 10000
+Epoch 38:
+	Validation Data: 7934 / 10000
+	Test Data: 7977 / 10000
+Epoch 39:
+	Validation Data: 8029 / 10000
+	Test Data: 8035 / 10000
+Epoch 40:
+	Validation Data: 7978 / 10000
+	Test Data: 7979 / 10000
+Epoch 41:
+	Validation Data: 8012 / 10000
+	Test Data: 8002 / 10000
+Epoch 42:
+	Validation Data: 7962 / 10000
+	Test Data: 7983 / 10000
+Epoch 43:
+	Validation Data: 7999 / 10000
+	Test Data: 8008 / 10000
+Epoch 44:
+	Validation Data: 7983 / 10000
+	Test Data: 8000 / 10000
+Epoch 45:
+	Validation Data: 8002 / 10000
+	Test Data: 8016 / 10000
+Epoch 46:
+	Validation Data: 8093 / 10000
+	Test Data: 8074 / 10000
+Epoch 47:
+	Validation Data: 8037 / 10000
+	Test Data: 8058 / 10000
+Epoch 48:
+	Validation Data: 7993 / 10000
+	Test Data: 8024 / 10000
+Epoch 49:
+	Validation Data: 8071 / 10000
+	Test Data: 8075 / 10000
+Epoch 50:
+	Validation Data: 8041 / 10000
+	Test Data: 8027 / 10000
+Epoch 51:
+	Validation Data: 8015 / 10000
+	Test Data: 8033 / 10000
+Epoch 52:
+	Validation Data: 7951 / 10000
+	Test Data: 7976 / 10000
+Epoch 53:
+	Validation Data: 8017 / 10000
+	Test Data: 8035 / 10000
+Epoch 54:
+	Validation Data: 8070 / 10000
+	Test Data: 8076 / 10000
+Epoch 55:
+	Validation Data: 8063 / 10000
+	Test Data: 8055 / 10000
+Epoch 56:
+	Validation Data: 8094 / 10000
+	Test Data: 8109 / 10000
+Epoch 57:
+	Validation Data: 8016 / 10000
+	Test Data: 8018 / 10000
+Epoch 58:
+	Validation Data: 8024 / 10000
+	Test Data: 8047 / 10000
+Epoch 59:
+	Validation Data: 8119 / 10000
+	Test Data: 8097 / 10000
+Epoch 60:
+	Validation Data: 8051 / 10000
+	Test Data: 8064 / 10000
+Epoch 61:
+	Validation Data: 7979 / 10000
+	Test Data: 7993 / 10000
+Epoch 62:
+	Validation Data: 8008 / 10000
+	Test Data: 8028 / 10000
+Epoch 63:
+	Validation Data: 8093 / 10000
+	Test Data: 8110 / 10000
+Epoch 64:
+	Validation Data: 8016 / 10000
+	Test Data: 8048 / 10000
+Epoch 65:
+	Validation Data: 8038 / 10000
+	Test Data: 8052 / 10000
+Epoch 66:
+	Validation Data: 8067 / 10000
+	Test Data: 8071 / 10000
+Epoch 67:
+	Validation Data: 8118 / 10000
+	Test Data: 8111 / 10000
+Epoch 68:
+	Validation Data: 8051 / 10000
+	Test Data: 8080 / 10000
+Epoch 69:
+	Validation Data: 8043 / 10000
+	Test Data: 8068 / 10000
+Epoch 70:
+	Validation Data: 8097 / 10000
+	Test Data: 8112 / 10000
+Epoch 71:
+	Validation Data: 8102 / 10000
+	Test Data: 8105 / 10000
+Epoch 72:
+	Validation Data: 8075 / 10000
+	Test Data: 8091 / 10000
+Epoch 73:
+	Validation Data: 8052 / 10000
+	Test Data: 8054 / 10000
+Epoch 74:
+	Validation Data: 8092 / 10000
+	Test Data: 8106 / 10000
+End Time:2018-02-17 14:04:07.701530
+
+Iteration: 2
+Start Time:2018-02-17 14:04:07.701582
+Epoch 0:
+	Validation Data: 5532 / 10000
+	Test Data: 5535 / 10000
+Epoch 1:
+	Validation Data: 5753 / 10000
+	Test Data: 5735 / 10000
+Epoch 2:
+	Validation Data: 5895 / 10000
+	Test Data: 5889 / 10000
+Epoch 3:
+	Validation Data: 6094 / 10000
+	Test Data: 6037 / 10000
+Epoch 4:
+	Validation Data: 6660 / 10000
+	Test Data: 6596 / 10000
+Epoch 5:
+	Validation Data: 6691 / 10000
+	Test Data: 6617 / 10000
+Epoch 6:
+	Validation Data: 6661 / 10000
+	Test Data: 6595 / 10000
+Epoch 7:
+	Validation Data: 6708 / 10000
+	Test Data: 6625 / 10000
+Epoch 8:
+	Validation Data: 6705 / 10000
+	Test Data: 6635 / 10000
+Epoch 9:
+	Validation Data: 6729 / 10000
+	Test Data: 6675 / 10000
+Epoch 10:
+	Validation Data: 6767 / 10000
+	Test Data: 6693 / 10000
+Epoch 11:
+	Validation Data: 6758 / 10000
+	Test Data: 6667 / 10000
+Epoch 12:
+	Validation Data: 6744 / 10000
+	Test Data: 6683 / 10000
+Epoch 13:
+	Validation Data: 6752 / 10000
+	Test Data: 6695 / 10000
+Epoch 14:
+	Validation Data: 6776 / 10000
+	Test Data: 6696 / 10000
+Epoch 15:
+	Validation Data: 6793 / 10000
+	Test Data: 6718 / 10000
+Epoch 16:
+	Validation Data: 6808 / 10000
+	Test Data: 6752 / 10000
+Epoch 17:
+	Validation Data: 6820 / 10000
+	Test Data: 6760 / 10000
+Epoch 18:
+	Validation Data: 6838 / 10000
+	Test Data: 6755 / 10000
+Epoch 19:
+	Validation Data: 6859 / 10000
+	Test Data: 6786 / 10000
+Epoch 20:
+	Validation Data: 6874 / 10000
+	Test Data: 6792 / 10000
+Epoch 21:
+	Validation Data: 6877 / 10000
+	Test Data: 6818 / 10000
+Epoch 22:
+	Validation Data: 6805 / 10000
+	Test Data: 6743 / 10000
+Epoch 23:
+	Validation Data: 6899 / 10000
+	Test Data: 6832 / 10000
+Epoch 24:
+	Validation Data: 6929 / 10000
+	Test Data: 6853 / 10000
+Epoch 25:
+	Validation Data: 7021 / 10000
+	Test Data: 6921 / 10000
+Epoch 26:
+	Validation Data: 7031 / 10000
+	Test Data: 6986 / 10000
+Epoch 27:
+	Validation Data: 7000 / 10000
+	Test Data: 6928 / 10000
+Epoch 28:
+	Validation Data: 7211 / 10000
+	Test Data: 7130 / 10000
+Epoch 29:
+	Validation Data: 7668 / 10000
+	Test Data: 7612 / 10000
+Epoch 30:
+	Validation Data: 7695 / 10000
+	Test Data: 7662 / 10000
+Epoch 31:
+	Validation Data: 7700 / 10000
+	Test Data: 7646 / 10000
+Epoch 32:
+	Validation Data: 7748 / 10000
+	Test Data: 7661 / 10000
+Epoch 33:
+	Validation Data: 7717 / 10000
+	Test Data: 7667 / 10000
+Epoch 34:
+	Validation Data: 7738 / 10000
+	Test Data: 7663 / 10000
+Epoch 35:
+	Validation Data: 7694 / 10000
+	Test Data: 7674 / 10000
+Epoch 36:
+	Validation Data: 7732 / 10000
+	Test Data: 7681 / 10000
+Epoch 37:
+	Validation Data: 7734 / 10000
+	Test Data: 7677 / 10000
+Epoch 38:
+	Validation Data: 7727 / 10000
+	Test Data: 7681 / 10000
+Epoch 39:
+	Validation Data: 7751 / 10000
+	Test Data: 7685 / 10000
+Epoch 40:
+	Validation Data: 7686 / 10000
+	Test Data: 7607 / 10000
+Epoch 41:
+	Validation Data: 7736 / 10000
+	Test Data: 7673 / 10000
+Epoch 42:
+	Validation Data: 7735 / 10000
+	Test Data: 7671 / 10000
+Epoch 43:
+	Validation Data: 7783 / 10000
+	Test Data: 7715 / 10000
+Epoch 44:
+	Validation Data: 7749 / 10000
+	Test Data: 7705 / 10000
+Epoch 45:
+	Validation Data: 7762 / 10000
+	Test Data: 7713 / 10000
+Epoch 46:
+	Validation Data: 7760 / 10000
+	Test Data: 7689 / 10000
+Epoch 47:
+	Validation Data: 7752 / 10000
+	Test Data: 7701 / 10000
+Epoch 48:
+	Validation Data: 7774 / 10000
+	Test Data: 7728 / 10000
+Epoch 49:
+	Validation Data: 7774 / 10000
+	Test Data: 7693 / 10000
+Epoch 50:
+	Validation Data: 7752 / 10000
+	Test Data: 7702 / 10000
+Epoch 51:
+	Validation Data: 7737 / 10000
+	Test Data: 7697 / 10000
+Epoch 52:
+	Validation Data: 7737 / 10000
+	Test Data: 7684 / 10000
+Epoch 53:
+	Validation Data: 7749 / 10000
+	Test Data: 7718 / 10000
+Epoch 54:
+	Validation Data: 7771 / 10000
+	Test Data: 7719 / 10000
+Epoch 55:
+	Validation Data: 7765 / 10000
+	Test Data: 7725 / 10000
+Epoch 56:
+	Validation Data: 7777 / 10000
+	Test Data: 7721 / 10000
+Epoch 57:
+	Validation Data: 7758 / 10000
+	Test Data: 7715 / 10000
+Epoch 58:
+	Validation Data: 7782 / 10000
+	Test Data: 7717 / 10000
+Epoch 59:
+	Validation Data: 7787 / 10000
+	Test Data: 7758 / 10000
+Epoch 60:
+	Validation Data: 7760 / 10000
+	Test Data: 7726 / 10000
+Epoch 61:
+	Validation Data: 7785 / 10000
+	Test Data: 7746 / 10000
+Epoch 62:
+	Validation Data: 7765 / 10000
+	Test Data: 7716 / 10000
+Epoch 63:
+	Validation Data: 7763 / 10000
+	Test Data: 7698 / 10000
+Epoch 64:
+	Validation Data: 7776 / 10000
+	Test Data: 7713 / 10000
+Epoch 65:
+	Validation Data: 7744 / 10000
+	Test Data: 7699 / 10000
+Epoch 66:
+	Validation Data: 7777 / 10000
+	Test Data: 7725 / 10000
+Epoch 67:
+	Validation Data: 7787 / 10000
+	Test Data: 7727 / 10000
+Epoch 68:
+	Validation Data: 7777 / 10000
+	Test Data: 7722 / 10000
+Epoch 69:
+	Validation Data: 7795 / 10000
+	Test Data: 7721 / 10000
+Epoch 70:
+	Validation Data: 7758 / 10000
+	Test Data: 7702 / 10000
+Epoch 71:
+	Validation Data: 7781 / 10000
+	Test Data: 7720 / 10000
+Epoch 72:
+	Validation Data: 7789 / 10000
+	Test Data: 7743 / 10000
+Epoch 73:
+	Validation Data: 7781 / 10000
+	Test Data: 7728 / 10000
+Epoch 74:
+	Validation Data: 7794 / 10000
+	Test Data: 7737 / 10000
+End Time:2018-02-17 14:18:56.762573
+
+Iteration: 3
+Start Time:2018-02-17 14:18:56.762645
+Epoch 0:
+	Validation Data: 6540 / 10000
+	Test Data: 6655 / 10000
+Epoch 1:
+	Validation Data: 6565 / 10000
+	Test Data: 6657 / 10000
+Epoch 2:
+	Validation Data: 6654 / 10000
+	Test Data: 6781 / 10000
+Epoch 3:
+	Validation Data: 6771 / 10000
+	Test Data: 6898 / 10000
+Epoch 4:
+	Validation Data: 6718 / 10000
+	Test Data: 6844 / 10000
+Epoch 5:
+	Validation Data: 6751 / 10000
+	Test Data: 6858 / 10000
+Epoch 6:
+	Validation Data: 6745 / 10000
+	Test Data: 6839 / 10000
+Epoch 7:
+	Validation Data: 6831 / 10000
+	Test Data: 6937 / 10000
+Epoch 8:
+	Validation Data: 6810 / 10000
+	Test Data: 6910 / 10000
+Epoch 9:
+	Validation Data: 6795 / 10000
+	Test Data: 6885 / 10000
+Epoch 10:
+	Validation Data: 6823 / 10000
+	Test Data: 6945 / 10000
+Epoch 11:
+	Validation Data: 6928 / 10000
+	Test Data: 7047 / 10000
+Epoch 12:
+	Validation Data: 6863 / 10000
+	Test Data: 6972 / 10000
+Epoch 13:
+	Validation Data: 6931 / 10000
+	Test Data: 7035 / 10000
+Epoch 14:
+	Validation Data: 6969 / 10000
+	Test Data: 7108 / 10000
+Epoch 15:
+	Validation Data: 7055 / 10000
+	Test Data: 7216 / 10000
+Epoch 16:
+	Validation Data: 7060 / 10000
+	Test Data: 7194 / 10000
+Epoch 17:
+	Validation Data: 6916 / 10000
+	Test Data: 7005 / 10000
+Epoch 18:
+	Validation Data: 7176 / 10000
+	Test Data: 7269 / 10000
+Epoch 19:
+	Validation Data: 6981 / 10000
+	Test Data: 7056 / 10000
+Epoch 20:
+	Validation Data: 7073 / 10000
+	Test Data: 7177 / 10000
+Epoch 21:
+	Validation Data: 7074 / 10000
+	Test Data: 7198 / 10000
+Epoch 22:
+	Validation Data: 7117 / 10000
+	Test Data: 7258 / 10000
+Epoch 23:
+	Validation Data: 7053 / 10000
+	Test Data: 7191 / 10000
+Epoch 24:
+	Validation Data: 7144 / 10000
+	Test Data: 7281 / 10000
+Epoch 25:
+	Validation Data: 7115 / 10000
+	Test Data: 7259 / 10000
+Epoch 26:
+	Validation Data: 7063 / 10000
+	Test Data: 7195 / 10000
+Epoch 27:
+	Validation Data: 7151 / 10000
+	Test Data: 7299 / 10000
+Epoch 28:
+	Validation Data: 7189 / 10000
+	Test Data: 7323 / 10000
+Epoch 29:
+	Validation Data: 7238 / 10000
+	Test Data: 7382 / 10000
+Epoch 30:
+	Validation Data: 7298 / 10000
+	Test Data: 7435 / 10000
+Epoch 31:
+	Validation Data: 7252 / 10000
+	Test Data: 7338 / 10000
+Epoch 32:
+	Validation Data: 7251 / 10000
+	Test Data: 7403 / 10000
+Epoch 33:
+	Validation Data: 7234 / 10000
+	Test Data: 7373 / 10000
+Epoch 34:
+	Validation Data: 7191 / 10000
+	Test Data: 7288 / 10000
+Epoch 35:
+	Validation Data: 7210 / 10000
+	Test Data: 7340 / 10000
+Epoch 36:
+	Validation Data: 7166 / 10000
+	Test Data: 7263 / 10000
+Epoch 37:
+	Validation Data: 7286 / 10000
+	Test Data: 7389 / 10000
+Epoch 38:
+	Validation Data: 7178 / 10000
+	Test Data: 7305 / 10000
+Epoch 39:
+	Validation Data: 7263 / 10000
+	Test Data: 7367 / 10000
+Epoch 40:
+	Validation Data: 7298 / 10000
+	Test Data: 7408 / 10000
+Epoch 41:
+	Validation Data: 7204 / 10000
+	Test Data: 7336 / 10000
+Epoch 42:
+	Validation Data: 7168 / 10000
+	Test Data: 7331 / 10000
+Epoch 43:
+	Validation Data: 7354 / 10000
+	Test Data: 7497 / 10000
+Epoch 44:
+	Validation Data: 7371 / 10000
+	Test Data: 7485 / 10000
+Epoch 45:
+	Validation Data: 7341 / 10000
+	Test Data: 7463 / 10000
+Epoch 46:
+	Validation Data: 7298 / 10000
+	Test Data: 7430 / 10000
+Epoch 47:
+	Validation Data: 7296 / 10000
+	Test Data: 7429 / 10000
+Epoch 48:
+	Validation Data: 7406 / 10000
+	Test Data: 7535 / 10000
+Epoch 49:
+	Validation Data: 7367 / 10000
+	Test Data: 7466 / 10000
+Epoch 50:
+	Validation Data: 7290 / 10000
+	Test Data: 7447 / 10000
+Epoch 51:
+	Validation Data: 7439 / 10000
+	Test Data: 7581 / 10000
+Epoch 52:
+	Validation Data: 7323 / 10000
+	Test Data: 7436 / 10000
+Epoch 53:
+	Validation Data: 7310 / 10000
+	Test Data: 7444 / 10000
+Epoch 54:
+	Validation Data: 7241 / 10000
+	Test Data: 7386 / 10000
+Epoch 55:
+	Validation Data: 7236 / 10000
+	Test Data: 7384 / 10000
+Epoch 56:
+	Validation Data: 7336 / 10000
+	Test Data: 7490 / 10000
+Epoch 57:
+	Validation Data: 7406 / 10000
+	Test Data: 7538 / 10000
+Epoch 58:
+	Validation Data: 7315 / 10000
+	Test Data: 7461 / 10000
+Epoch 59:
+	Validation Data: 7377 / 10000
+	Test Data: 7452 / 10000
+Epoch 60:
+	Validation Data: 7334 / 10000
+	Test Data: 7459 / 10000
+Epoch 61:
+	Validation Data: 7380 / 10000
+	Test Data: 7511 / 10000
+Epoch 62:
+	Validation Data: 7442 / 10000
+	Test Data: 7554 / 10000
+Epoch 63:
+	Validation Data: 7336 / 10000
+	Test Data: 7474 / 10000
+Epoch 64:
+	Validation Data: 7270 / 10000
+	Test Data: 7406 / 10000
+Epoch 65:
+	Validation Data: 7408 / 10000
+	Test Data: 7533 / 10000
+Epoch 66:
+	Validation Data: 7387 / 10000
+	Test Data: 7491 / 10000
+Epoch 67:
+	Validation Data: 7361 / 10000
+	Test Data: 7482 / 10000
+Epoch 68:
+	Validation Data: 7347 / 10000
+	Test Data: 7476 / 10000
+Epoch 69:
+	Validation Data: 7384 / 10000
+	Test Data: 7493 / 10000
+Epoch 70:
+	Validation Data: 7399 / 10000
+	Test Data: 7506 / 10000
+Epoch 71:
+	Validation Data: 7479 / 10000
+	Test Data: 7567 / 10000
+Epoch 72:
+	Validation Data: 7452 / 10000
+	Test Data: 7568 / 10000
+Epoch 73:
+	Validation Data: 7475 / 10000
+	Test Data: 7603 / 10000
+Epoch 74:
+	Validation Data: 7523 / 10000
+	Test Data: 7637 / 10000
+End Time:2018-02-17 14:33:29.960380
+
+Iteration: 4
+Start Time:2018-02-17 14:33:29.960431
+Epoch 0:
+	Validation Data: 4114 / 10000
+	Test Data: 4074 / 10000
+Epoch 1:
+	Validation Data: 4279 / 10000
+	Test Data: 4234 / 10000
+Epoch 2:
+	Validation Data: 4412 / 10000
+	Test Data: 4404 / 10000
+Epoch 3:
+	Validation Data: 4872 / 10000
+	Test Data: 4827 / 10000
+Epoch 4:
+	Validation Data: 6045 / 10000
+	Test Data: 6022 / 10000
+Epoch 5:
+	Validation Data: 6355 / 10000
+	Test Data: 6330 / 10000
+Epoch 6:
+	Validation Data: 6896 / 10000
+	Test Data: 6877 / 10000
+Epoch 7:
+	Validation Data: 6960 / 10000
+	Test Data: 6943 / 10000
+Epoch 8:
+	Validation Data: 7304 / 10000
+	Test Data: 7329 / 10000
+Epoch 9:
+	Validation Data: 7677 / 10000
+	Test Data: 7735 / 10000
+Epoch 10:
+	Validation Data: 7810 / 10000
+	Test Data: 7855 / 10000
+Epoch 11:
+	Validation Data: 8645 / 10000
+	Test Data: 8598 / 10000
+Epoch 12:
+	Validation Data: 8669 / 10000
+	Test Data: 8643 / 10000
+Epoch 13:
+	Validation Data: 8703 / 10000
+	Test Data: 8668 / 10000
+Epoch 14:
+	Validation Data: 8720 / 10000
+	Test Data: 8699 / 10000
+Epoch 15:
+	Validation Data: 8718 / 10000
+	Test Data: 8717 / 10000
+Epoch 16:
+	Validation Data: 8710 / 10000
+	Test Data: 8727 / 10000
+Epoch 17:
+	Validation Data: 8719 / 10000
+	Test Data: 8685 / 10000
+Epoch 18:
+	Validation Data: 8766 / 10000
+	Test Data: 8755 / 10000
+Epoch 19:
+	Validation Data: 8719 / 10000
+	Test Data: 8691 / 10000
+Epoch 20:
+	Validation Data: 8758 / 10000
+	Test Data: 8726 / 10000
+Epoch 21:
+	Validation Data: 8773 / 10000
+	Test Data: 8767 / 10000
+Epoch 22:
+	Validation Data: 8773 / 10000
+	Test Data: 8763 / 10000
+Epoch 23:
+	Validation Data: 8736 / 10000
+	Test Data: 8708 / 10000
+Epoch 24:
+	Validation Data: 8786 / 10000
+	Test Data: 8774 / 10000
+Epoch 25:
+	Validation Data: 8774 / 10000
+	Test Data: 8769 / 10000
+Epoch 26:
+	Validation Data: 8764 / 10000
+	Test Data: 8750 / 10000
+Epoch 27:
+	Validation Data: 8781 / 10000
+	Test Data: 8792 / 10000
+Epoch 28:
+	Validation Data: 8812 / 10000
+	Test Data: 8778 / 10000
+Epoch 29:
+	Validation Data: 8821 / 10000
+	Test Data: 8829 / 10000
+Epoch 30:
+	Validation Data: 8871 / 10000
+	Test Data: 8874 / 10000
+Epoch 31:
+	Validation Data: 8797 / 10000
+	Test Data: 8784 / 10000
+Epoch 32:
+	Validation Data: 8823 / 10000
+	Test Data: 8826 / 10000
+Epoch 33:
+	Validation Data: 8839 / 10000
+	Test Data: 8856 / 10000
+Epoch 34:
+	Validation Data: 8848 / 10000
+	Test Data: 8839 / 10000
+Epoch 35:
+	Validation Data: 8813 / 10000
+	Test Data: 8828 / 10000
+Epoch 36:
+	Validation Data: 8839 / 10000
+	Test Data: 8784 / 10000
+Epoch 37:
+	Validation Data: 8875 / 10000
+	Test Data: 8852 / 10000
+Epoch 38:
+	Validation Data: 8876 / 10000
+	Test Data: 8840 / 10000
+Epoch 39:
+	Validation Data: 8848 / 10000
+	Test Data: 8831 / 10000
+Epoch 40:
+	Validation Data: 8868 / 10000
+	Test Data: 8878 / 10000
+Epoch 41:
+	Validation Data: 8868 / 10000
+	Test Data: 8848 / 10000
+Epoch 42:
+	Validation Data: 8809 / 10000
+	Test Data: 8813 / 10000
+Epoch 43:
+	Validation Data: 8987 / 10000
+	Test Data: 8989 / 10000
+Epoch 44:
+	Validation Data: 8898 / 10000
+	Test Data: 8895 / 10000
+Epoch 45:
+	Validation Data: 8854 / 10000
+	Test Data: 8846 / 10000
+Epoch 46:
+	Validation Data: 8968 / 10000
+	Test Data: 8916 / 10000
+Epoch 47:
+	Validation Data: 8961 / 10000
+	Test Data: 8964 / 10000
+Epoch 48:
+	Validation Data: 8925 / 10000
+	Test Data: 8904 / 10000
+Epoch 49:
+	Validation Data: 8979 / 10000
+	Test Data: 8990 / 10000
+Epoch 50:
+	Validation Data: 8901 / 10000
+	Test Data: 8844 / 10000
+Epoch 51:
+	Validation Data: 8943 / 10000
+	Test Data: 8915 / 10000
+Epoch 52:
+	Validation Data: 8924 / 10000
+	Test Data: 8900 / 10000
+Epoch 53:
+	Validation Data: 8928 / 10000
+	Test Data: 8894 / 10000
+Epoch 54:
+	Validation Data: 8906 / 10000
+	Test Data: 8852 / 10000
+Epoch 55:
+	Validation Data: 8921 / 10000
+	Test Data: 8870 / 10000
+Epoch 56:
+	Validation Data: 8904 / 10000
+	Test Data: 8883 / 10000
+Epoch 57:
+	Validation Data: 8913 / 10000
+	Test Data: 8862 / 10000
+Epoch 58:
+	Validation Data: 8977 / 10000
+	Test Data: 8957 / 10000
+Epoch 59:
+	Validation Data: 9043 / 10000
+	Test Data: 9052 / 10000
+Epoch 60:
+	Validation Data: 9005 / 10000
+	Test Data: 8954 / 10000
+Epoch 61:
+	Validation Data: 8957 / 10000
+	Test Data: 8916 / 10000
+Epoch 62:
+	Validation Data: 9005 / 10000
+	Test Data: 8969 / 10000
+Epoch 63:
+	Validation Data: 8902 / 10000
+	Test Data: 8874 / 10000
+Epoch 64:
+	Validation Data: 8944 / 10000
+	Test Data: 8901 / 10000
+Epoch 65:
+	Validation Data: 8951 / 10000
+	Test Data: 8933 / 10000
+Epoch 66:
+	Validation Data: 9020 / 10000
+	Test Data: 8989 / 10000
+Epoch 67:
+	Validation Data: 8975 / 10000
+	Test Data: 8935 / 10000
+Epoch 68:
+	Validation Data: 9004 / 10000
+	Test Data: 8988 / 10000
+Epoch 69:
+	Validation Data: 8966 / 10000
+	Test Data: 8940 / 10000
+Epoch 70:
+	Validation Data: 8989 / 10000
+	Test Data: 8964 / 10000
+Epoch 71:
+	Validation Data: 8982 / 10000
+	Test Data: 8972 / 10000
+Epoch 72:
+	Validation Data: 9014 / 10000
+	Test Data: 8979 / 10000
+Epoch 73:
+	Validation Data: 8964 / 10000
+	Test Data: 8942 / 10000
+Epoch 74:
+	Validation Data: 8968 / 10000
+	Test Data: 8957 / 10000
+End Time:2018-02-17 14:48:16.750946
+
+Set: 4
+		Network Details
+Network layout: [784, 100, 10]
+Number of Epochs: 75
+Batch Size: 8
+Learning Rate: 10.0
+Number of Runs: 5
+
+Iteration: 0
+Start Time:2018-02-17 14:48:16.751014
+Epoch 0:
+	Validation Data: 2378 / 10000
+	Test Data: 2333 / 10000
+Epoch 1:
+	Validation Data: 5259 / 10000
+	Test Data: 5071 / 10000
+Epoch 2:
+	Validation Data: 6807 / 10000
+	Test Data: 6690 / 10000
+Epoch 3:
+	Validation Data: 7801 / 10000
+	Test Data: 7724 / 10000
+Epoch 4:
+	Validation Data: 8174 / 10000
+	Test Data: 8054 / 10000
+Epoch 5:
+	Validation Data: 7724 / 10000
+	Test Data: 7569 / 10000
+Epoch 6:
+	Validation Data: 8112 / 10000
+	Test Data: 7953 / 10000
+Epoch 7:
+	Validation Data: 8113 / 10000
+	Test Data: 7982 / 10000
+Epoch 8:
+	Validation Data: 8371 / 10000
+	Test Data: 8201 / 10000
+Epoch 9:
+	Validation Data: 8130 / 10000
+	Test Data: 8048 / 10000
+Epoch 10:
+	Validation Data: 8164 / 10000
+	Test Data: 8071 / 10000
+Epoch 11:
+	Validation Data: 8639 / 10000
+	Test Data: 8551 / 10000
+Epoch 12:
+	Validation Data: 8565 / 10000
+	Test Data: 8477 / 10000
+Epoch 13:
+	Validation Data: 8599 / 10000
+	Test Data: 8500 / 10000
+Epoch 14:
+	Validation Data: 9148 / 10000
+	Test Data: 9077 / 10000
+Epoch 15:
+	Validation Data: 9013 / 10000
+	Test Data: 8891 / 10000
+Epoch 16:
+	Validation Data: 9045 / 10000
+	Test Data: 8915 / 10000
+Epoch 17:
+	Validation Data: 9307 / 10000
+	Test Data: 9184 / 10000
+Epoch 18:
+	Validation Data: 9186 / 10000
+	Test Data: 9115 / 10000
+Epoch 19:
+	Validation Data: 9050 / 10000
+	Test Data: 8968 / 10000
+Epoch 20:
+	Validation Data: 9024 / 10000
+	Test Data: 8878 / 10000
+Epoch 21:
+	Validation Data: 9269 / 10000
+	Test Data: 9180 / 10000
+Epoch 22:
+	Validation Data: 9248 / 10000
+	Test Data: 9177 / 10000
+Epoch 23:
+	Validation Data: 9196 / 10000
+	Test Data: 9097 / 10000
+Epoch 24:
+	Validation Data: 9260 / 10000
+	Test Data: 9149 / 10000
+Epoch 25:
+	Validation Data: 9202 / 10000
+	Test Data: 9151 / 10000
+Epoch 26:
+	Validation Data: 9305 / 10000
+	Test Data: 9247 / 10000
+Epoch 27:
+	Validation Data: 9235 / 10000
+	Test Data: 9195 / 10000
+Epoch 28:
+	Validation Data: 9322 / 10000
+	Test Data: 9303 / 10000
+Epoch 29:
+	Validation Data: 9400 / 10000
+	Test Data: 9371 / 10000
+Epoch 30:
+	Validation Data: 9386 / 10000
+	Test Data: 9339 / 10000
+Epoch 31:
+	Validation Data: 9389 / 10000
+	Test Data: 9314 / 10000
+Epoch 32:
+	Validation Data: 9308 / 10000
+	Test Data: 9246 / 10000
+Epoch 33:
+	Validation Data: 9504 / 10000
+	Test Data: 9431 / 10000
+Epoch 34:
+	Validation Data: 9463 / 10000
+	Test Data: 9412 / 10000
+Epoch 35:
+	Validation Data: 9463 / 10000
+	Test Data: 9427 / 10000
+Epoch 36:
+	Validation Data: 9472 / 10000
+	Test Data: 9454 / 10000
+Epoch 37:
+	Validation Data: 9480 / 10000
+	Test Data: 9449 / 10000
+Epoch 38:
+	Validation Data: 9457 / 10000
+	Test Data: 9439 / 10000
+Epoch 39:
+	Validation Data: 9468 / 10000
+	Test Data: 9443 / 10000
+Epoch 40:
+	Validation Data: 9495 / 10000
+	Test Data: 9459 / 10000
+Epoch 41:
+	Validation Data: 9485 / 10000
+	Test Data: 9446 / 10000
+Epoch 42:
+	Validation Data: 9527 / 10000
+	Test Data: 9491 / 10000
+Epoch 43:
+	Validation Data: 9514 / 10000
+	Test Data: 9471 / 10000
+Epoch 44:
+	Validation Data: 9488 / 10000
+	Test Data: 9422 / 10000
+Epoch 45:
+	Validation Data: 9540 / 10000
+	Test Data: 9467 / 10000
+Epoch 46:
+	Validation Data: 9484 / 10000
+	Test Data: 9437 / 10000
+Epoch 47:
+	Validation Data: 9512 / 10000
+	Test Data: 9475 / 10000
+Epoch 48:
+	Validation Data: 9536 / 10000
+	Test Data: 9512 / 10000
+Epoch 49:
+	Validation Data: 9506 / 10000
+	Test Data: 9465 / 10000
+Epoch 50:
+	Validation Data: 9504 / 10000
+	Test Data: 9442 / 10000
+Epoch 51:
+	Validation Data: 9528 / 10000
+	Test Data: 9452 / 10000
+Epoch 52:
+	Validation Data: 9560 / 10000
+	Test Data: 9478 / 10000
+Epoch 53:
+	Validation Data: 9547 / 10000
+	Test Data: 9480 / 10000
+Epoch 54:
+	Validation Data: 9524 / 10000
+	Test Data: 9457 / 10000
+Epoch 55:
+	Validation Data: 9513 / 10000
+	Test Data: 9475 / 10000
+Epoch 56:
+	Validation Data: 9570 / 10000
+	Test Data: 9511 / 10000
+Epoch 57:
+	Validation Data: 9494 / 10000
+	Test Data: 9476 / 10000
+Epoch 58:
+	Validation Data: 9546 / 10000
+	Test Data: 9507 / 10000
+Epoch 59:
+	Validation Data: 9517 / 10000
+	Test Data: 9456 / 10000
+Epoch 60:
+	Validation Data: 9571 / 10000
+	Test Data: 9497 / 10000
+Epoch 61:
+	Validation Data: 9525 / 10000
+	Test Data: 9469 / 10000
+Epoch 62:
+	Validation Data: 9511 / 10000
+	Test Data: 9480 / 10000
+Epoch 63:
+	Validation Data: 9550 / 10000
+	Test Data: 9513 / 10000
+Epoch 64:
+	Validation Data: 9461 / 10000
+	Test Data: 9455 / 10000
+Epoch 65:
+	Validation Data: 9529 / 10000
+	Test Data: 9470 / 10000
+Epoch 66:
+	Validation Data: 9518 / 10000
+	Test Data: 9505 / 10000
+Epoch 67:
+	Validation Data: 9551 / 10000
+	Test Data: 9492 / 10000
+Epoch 68:
+	Validation Data: 9555 / 10000
+	Test Data: 9534 / 10000
+Epoch 69:
+	Validation Data: 9510 / 10000
+	Test Data: 9469 / 10000
+Epoch 70:
+	Validation Data: 9555 / 10000
+	Test Data: 9510 / 10000
+Epoch 71:
+	Validation Data: 9528 / 10000
+	Test Data: 9469 / 10000
+Epoch 72:
+	Validation Data: 9532 / 10000
+	Test Data: 9512 / 10000
+Epoch 73:
+	Validation Data: 9556 / 10000
+	Test Data: 9515 / 10000
+Epoch 74:
+	Validation Data: 9496 / 10000
+	Test Data: 9486 / 10000
+End Time:2018-02-17 15:02:54.017826
+
+Iteration: 1
+Start Time:2018-02-17 15:02:54.017878
+Epoch 0:
+	Validation Data: 5228 / 10000
+	Test Data: 5106 / 10000
+Epoch 1:
+	Validation Data: 5907 / 10000
+	Test Data: 5833 / 10000
+Epoch 2:
+	Validation Data: 5765 / 10000
+	Test Data: 5742 / 10000
+Epoch 3:
+	Validation Data: 6017 / 10000
+	Test Data: 5940 / 10000
+Epoch 4:
+	Validation Data: 5848 / 10000
+	Test Data: 5832 / 10000
+Epoch 5:
+	Validation Data: 5895 / 10000
+	Test Data: 5769 / 10000
+Epoch 6:
+	Validation Data: 6182 / 10000
+	Test Data: 6072 / 10000
+Epoch 7:
+	Validation Data: 6281 / 10000
+	Test Data: 6244 / 10000
+Epoch 8:
+	Validation Data: 5968 / 10000
+	Test Data: 5906 / 10000
+Epoch 9:
+	Validation Data: 5782 / 10000
+	Test Data: 5696 / 10000
+Epoch 10:
+	Validation Data: 5865 / 10000
+	Test Data: 5755 / 10000
+Epoch 11:
+	Validation Data: 5934 / 10000
+	Test Data: 5842 / 10000
+Epoch 12:
+	Validation Data: 6009 / 10000
+	Test Data: 5900 / 10000
+Epoch 13:
+	Validation Data: 6046 / 10000
+	Test Data: 6016 / 10000
+Epoch 14:
+	Validation Data: 6138 / 10000
+	Test Data: 6082 / 10000
+Epoch 15:
+	Validation Data: 6254 / 10000
+	Test Data: 6164 / 10000
+Epoch 16:
+	Validation Data: 5968 / 10000
+	Test Data: 5849 / 10000
+Epoch 17:
+	Validation Data: 5919 / 10000
+	Test Data: 5810 / 10000
+Epoch 18:
+	Validation Data: 5884 / 10000
+	Test Data: 5804 / 10000
+Epoch 19:
+	Validation Data: 5980 / 10000
+	Test Data: 5841 / 10000
+Epoch 20:
+	Validation Data: 6054 / 10000
+	Test Data: 5945 / 10000
+Epoch 21:
+	Validation Data: 6083 / 10000
+	Test Data: 5961 / 10000
+Epoch 22:
+	Validation Data: 6076 / 10000
+	Test Data: 5944 / 10000
+Epoch 23:
+	Validation Data: 6213 / 10000
+	Test Data: 6078 / 10000
+Epoch 24:
+	Validation Data: 6153 / 10000
+	Test Data: 6038 / 10000
+Epoch 25:
+	Validation Data: 6238 / 10000
+	Test Data: 6126 / 10000
+Epoch 26:
+	Validation Data: 6020 / 10000
+	Test Data: 5914 / 10000
+Epoch 27:
+	Validation Data: 6202 / 10000
+	Test Data: 6017 / 10000
+Epoch 28:
+	Validation Data: 6160 / 10000
+	Test Data: 6031 / 10000
+Epoch 29:
+	Validation Data: 6120 / 10000
+	Test Data: 5999 / 10000
+Epoch 30:
+	Validation Data: 6215 / 10000
+	Test Data: 6093 / 10000
+Epoch 31:
+	Validation Data: 6341 / 10000
+	Test Data: 6201 / 10000
+Epoch 32:
+	Validation Data: 6237 / 10000
+	Test Data: 6009 / 10000
+Epoch 33:
+	Validation Data: 5959 / 10000
+	Test Data: 5858 / 10000
+Epoch 34:
+	Validation Data: 6132 / 10000
+	Test Data: 5956 / 10000
+Epoch 35:
+	Validation Data: 6040 / 10000
+	Test Data: 5890 / 10000
+Epoch 36:
+	Validation Data: 6111 / 10000
+	Test Data: 5958 / 10000
+Epoch 37:
+	Validation Data: 6216 / 10000
+	Test Data: 6077 / 10000
+Epoch 38:
+	Validation Data: 5959 / 10000
+	Test Data: 5845 / 10000
+Epoch 39:
+	Validation Data: 6013 / 10000
+	Test Data: 5877 / 10000
+Epoch 40:
+	Validation Data: 6026 / 10000
+	Test Data: 5898 / 10000
+Epoch 41:
+	Validation Data: 6053 / 10000
+	Test Data: 5977 / 10000
+Epoch 42:
+	Validation Data: 6081 / 10000
+	Test Data: 5945 / 10000
+Epoch 43:
+	Validation Data: 6018 / 10000
+	Test Data: 5871 / 10000
+Epoch 44:
+	Validation Data: 6019 / 10000
+	Test Data: 5872 / 10000
+Epoch 45:
+	Validation Data: 6005 / 10000
+	Test Data: 5875 / 10000
+Epoch 46:
+	Validation Data: 5991 / 10000
+	Test Data: 5871 / 10000
+Epoch 47:
+	Validation Data: 6009 / 10000
+	Test Data: 5884 / 10000
+Epoch 48:
+	Validation Data: 6065 / 10000
+	Test Data: 5976 / 10000
+Epoch 49:
+	Validation Data: 6034 / 10000
+	Test Data: 5956 / 10000
+Epoch 50:
+	Validation Data: 6052 / 10000
+	Test Data: 5966 / 10000
+Epoch 51:
+	Validation Data: 6068 / 10000
+	Test Data: 6016 / 10000
+Epoch 52:
+	Validation Data: 6150 / 10000
+	Test Data: 6060 / 10000
+Epoch 53:
+	Validation Data: 6230 / 10000
+	Test Data: 6127 / 10000
+Epoch 54:
+	Validation Data: 6241 / 10000
+	Test Data: 6194 / 10000
+Epoch 55:
+	Validation Data: 6253 / 10000
+	Test Data: 6163 / 10000
+Epoch 56:
+	Validation Data: 6225 / 10000
+	Test Data: 6167 / 10000
+Epoch 57:
+	Validation Data: 6243 / 10000
+	Test Data: 6121 / 10000
+Epoch 58:
+	Validation Data: 6224 / 10000
+	Test Data: 6138 / 10000
+Epoch 59:
+	Validation Data: 6162 / 10000
+	Test Data: 6041 / 10000
+Epoch 60:
+	Validation Data: 6278 / 10000
+	Test Data: 6184 / 10000
+Epoch 61:
+	Validation Data: 6137 / 10000
+	Test Data: 6035 / 10000
+Epoch 62:
+	Validation Data: 6334 / 10000
+	Test Data: 6257 / 10000
+Epoch 63:
+	Validation Data: 6298 / 10000
+	Test Data: 6170 / 10000
+Epoch 64:
+	Validation Data: 6376 / 10000
+	Test Data: 6289 / 10000
+Epoch 65:
+	Validation Data: 6351 / 10000
+	Test Data: 6236 / 10000
+Epoch 66:
+	Validation Data: 6251 / 10000
+	Test Data: 6163 / 10000
+Epoch 67:
+	Validation Data: 6213 / 10000
+	Test Data: 6134 / 10000
+Epoch 68:
+	Validation Data: 6259 / 10000
+	Test Data: 6189 / 10000
+Epoch 69:
+	Validation Data: 6291 / 10000
+	Test Data: 6177 / 10000
+Epoch 70:
+	Validation Data: 6311 / 10000
+	Test Data: 6250 / 10000
+Epoch 71:
+	Validation Data: 6248 / 10000
+	Test Data: 6182 / 10000
+Epoch 72:
+	Validation Data: 6439 / 10000
+	Test Data: 6338 / 10000
+Epoch 73:
+	Validation Data: 6574 / 10000
+	Test Data: 6439 / 10000
+Epoch 74:
+	Validation Data: 6545 / 10000
+	Test Data: 6384 / 10000
+End Time:2018-02-17 15:17:35.688940
+
+Iteration: 2
+Start Time:2018-02-17 15:17:35.688992
+Epoch 0:
+	Validation Data: 2710 / 10000
+	Test Data: 2790 / 10000
+Epoch 1:
+	Validation Data: 4014 / 10000
+	Test Data: 4005 / 10000
+Epoch 2:
+	Validation Data: 4699 / 10000
+	Test Data: 4716 / 10000
+Epoch 3:
+	Validation Data: 4660 / 10000
+	Test Data: 4623 / 10000
+Epoch 4:
+	Validation Data: 6383 / 10000
+	Test Data: 6269 / 10000
+Epoch 5:
+	Validation Data: 7694 / 10000
+	Test Data: 7621 / 10000
+Epoch 6:
+	Validation Data: 9126 / 10000
+	Test Data: 9105 / 10000
+Epoch 7:
+	Validation Data: 9255 / 10000
+	Test Data: 9234 / 10000
+Epoch 8:
+	Validation Data: 9191 / 10000
+	Test Data: 9131 / 10000
+Epoch 9:
+	Validation Data: 9330 / 10000
+	Test Data: 9247 / 10000
+Epoch 10:
+	Validation Data: 9354 / 10000
+	Test Data: 9282 / 10000
+Epoch 11:
+	Validation Data: 9311 / 10000
+	Test Data: 9257 / 10000
+Epoch 12:
+	Validation Data: 9425 / 10000
+	Test Data: 9337 / 10000
+Epoch 13:
+	Validation Data: 9387 / 10000
+	Test Data: 9351 / 10000
+Epoch 14:
+	Validation Data: 9328 / 10000
+	Test Data: 9329 / 10000
+Epoch 15:
+	Validation Data: 9408 / 10000
+	Test Data: 9376 / 10000
+Epoch 16:
+	Validation Data: 9395 / 10000
+	Test Data: 9389 / 10000
+Epoch 17:
+	Validation Data: 9449 / 10000
+	Test Data: 9406 / 10000
+Epoch 18:
+	Validation Data: 9422 / 10000
+	Test Data: 9397 / 10000
+Epoch 19:
+	Validation Data: 9479 / 10000
+	Test Data: 9427 / 10000
+Epoch 20:
+	Validation Data: 9410 / 10000
+	Test Data: 9371 / 10000
+Epoch 21:
+	Validation Data: 9445 / 10000
+	Test Data: 9424 / 10000
+Epoch 22:
+	Validation Data: 9521 / 10000
+	Test Data: 9464 / 10000
+Epoch 23:
+	Validation Data: 9488 / 10000
+	Test Data: 9452 / 10000
+Epoch 24:
+	Validation Data: 9459 / 10000
+	Test Data: 9402 / 10000
+Epoch 25:
+	Validation Data: 9500 / 10000
+	Test Data: 9463 / 10000
+Epoch 26:
+	Validation Data: 9440 / 10000
+	Test Data: 9391 / 10000
+Epoch 27:
+	Validation Data: 9464 / 10000
+	Test Data: 9428 / 10000
+Epoch 28:
+	Validation Data: 9437 / 10000
+	Test Data: 9438 / 10000
+Epoch 29:
+	Validation Data: 9405 / 10000
+	Test Data: 9386 / 10000
+Epoch 30:
+	Validation Data: 9526 / 10000
+	Test Data: 9482 / 10000
+Epoch 31:
+	Validation Data: 9501 / 10000
+	Test Data: 9485 / 10000
+Epoch 32:
+	Validation Data: 9508 / 10000
+	Test Data: 9465 / 10000
+Epoch 33:
+	Validation Data: 9493 / 10000
+	Test Data: 9466 / 10000
+Epoch 34:
+	Validation Data: 9541 / 10000
+	Test Data: 9478 / 10000
+Epoch 35:
+	Validation Data: 9528 / 10000
+	Test Data: 9462 / 10000
+Epoch 36:
+	Validation Data: 9495 / 10000
+	Test Data: 9470 / 10000
+Epoch 37:
+	Validation Data: 9488 / 10000
+	Test Data: 9443 / 10000
+Epoch 38:
+	Validation Data: 9500 / 10000
+	Test Data: 9433 / 10000
+Epoch 39:
+	Validation Data: 9495 / 10000
+	Test Data: 9459 / 10000
+Epoch 40:
+	Validation Data: 9526 / 10000
+	Test Data: 9465 / 10000
+Epoch 41:
+	Validation Data: 9519 / 10000
+	Test Data: 9450 / 10000
+Epoch 42:
+	Validation Data: 9498 / 10000
+	Test Data: 9443 / 10000
+Epoch 43:
+	Validation Data: 9507 / 10000
+	Test Data: 9466 / 10000
+Epoch 44:
+	Validation Data: 9545 / 10000
+	Test Data: 9497 / 10000
+Epoch 45:
+	Validation Data: 9516 / 10000
+	Test Data: 9494 / 10000
+Epoch 46:
+	Validation Data: 9511 / 10000
+	Test Data: 9466 / 10000
+Epoch 47:
+	Validation Data: 9480 / 10000
+	Test Data: 9462 / 10000
+Epoch 48:
+	Validation Data: 9437 / 10000
+	Test Data: 9439 / 10000
+Epoch 49:
+	Validation Data: 9488 / 10000
+	Test Data: 9499 / 10000
+Epoch 50:
+	Validation Data: 9478 / 10000
+	Test Data: 9436 / 10000
+Epoch 51:
+	Validation Data: 9534 / 10000
+	Test Data: 9512 / 10000
+Epoch 52:
+	Validation Data: 9523 / 10000
+	Test Data: 9491 / 10000
+Epoch 53:
+	Validation Data: 9507 / 10000
+	Test Data: 9494 / 10000
+Epoch 54:
+	Validation Data: 9544 / 10000
+	Test Data: 9494 / 10000
+Epoch 55:
+	Validation Data: 9541 / 10000
+	Test Data: 9517 / 10000
+Epoch 56:
+	Validation Data: 9449 / 10000
+	Test Data: 9420 / 10000
+Epoch 57:
+	Validation Data: 9511 / 10000
+	Test Data: 9453 / 10000
+Epoch 58:
+	Validation Data: 9507 / 10000
+	Test Data: 9488 / 10000
+Epoch 59:
+	Validation Data: 9530 / 10000
+	Test Data: 9489 / 10000
+Epoch 60:
+	Validation Data: 9532 / 10000
+	Test Data: 9504 / 10000
+Epoch 61:
+	Validation Data: 9537 / 10000
+	Test Data: 9505 / 10000
+Epoch 62:
+	Validation Data: 9491 / 10000
+	Test Data: 9442 / 10000
+Epoch 63:
+	Validation Data: 9521 / 10000
+	Test Data: 9486 / 10000
+Epoch 64:
+	Validation Data: 9550 / 10000
+	Test Data: 9526 / 10000
+Epoch 65:
+	Validation Data: 9509 / 10000
+	Test Data: 9498 / 10000
+Epoch 66:
+	Validation Data: 9530 / 10000
+	Test Data: 9518 / 10000
+Epoch 67:
+	Validation Data: 9574 / 10000
+	Test Data: 9521 / 10000
+Epoch 68:
+	Validation Data: 9528 / 10000
+	Test Data: 9487 / 10000
+Epoch 69:
+	Validation Data: 9469 / 10000
+	Test Data: 9458 / 10000
+Epoch 70:
+	Validation Data: 9526 / 10000
+	Test Data: 9501 / 10000
+Epoch 71:
+	Validation Data: 9542 / 10000
+	Test Data: 9545 / 10000
+Epoch 72:
+	Validation Data: 9545 / 10000
+	Test Data: 9520 / 10000
+Epoch 73:
+	Validation Data: 9547 / 10000
+	Test Data: 9518 / 10000
+Epoch 74:
+	Validation Data: 9585 / 10000
+	Test Data: 9539 / 10000
+End Time:2018-02-17 15:32:19.260668
+
+Iteration: 3
+Start Time:2018-02-17 15:32:19.260720
+Epoch 0:
+	Validation Data: 7478 / 10000
+	Test Data: 7429 / 10000
+Epoch 1:
+	Validation Data: 8096 / 10000
+	Test Data: 7998 / 10000
+Epoch 2:
+	Validation Data: 8477 / 10000
+	Test Data: 8379 / 10000
+Epoch 3:
+	Validation Data: 8778 / 10000
+	Test Data: 8647 / 10000
+Epoch 4:
+	Validation Data: 8521 / 10000
+	Test Data: 8454 / 10000
+Epoch 5:
+	Validation Data: 8777 / 10000
+	Test Data: 8609 / 10000
+Epoch 6:
+	Validation Data: 8827 / 10000
+	Test Data: 8766 / 10000
+Epoch 7:
+	Validation Data: 8783 / 10000
+	Test Data: 8699 / 10000
+Epoch 8:
+	Validation Data: 8830 / 10000
+	Test Data: 8775 / 10000
+Epoch 9:
+	Validation Data: 8809 / 10000
+	Test Data: 8763 / 10000
+Epoch 10:
+	Validation Data: 9099 / 10000
+	Test Data: 9027 / 10000
+Epoch 11:
+	Validation Data: 8912 / 10000
+	Test Data: 8786 / 10000
+Epoch 12:
+	Validation Data: 9042 / 10000
+	Test Data: 8997 / 10000
+Epoch 13:
+	Validation Data: 9184 / 10000
+	Test Data: 9122 / 10000
+Epoch 14:
+	Validation Data: 9212 / 10000
+	Test Data: 9137 / 10000
+Epoch 15:
+	Validation Data: 9145 / 10000
+	Test Data: 9072 / 10000
+Epoch 16:
+	Validation Data: 9209 / 10000
+	Test Data: 9116 / 10000
+Epoch 17:
+	Validation Data: 9209 / 10000
+	Test Data: 9104 / 10000
+Epoch 18:
+	Validation Data: 9302 / 10000
+	Test Data: 9252 / 10000
+Epoch 19:
+	Validation Data: 9233 / 10000
+	Test Data: 9146 / 10000
+Epoch 20:
+	Validation Data: 9219 / 10000
+	Test Data: 9181 / 10000
+Epoch 21:
+	Validation Data: 9116 / 10000
+	Test Data: 9056 / 10000
+Epoch 22:
+	Validation Data: 9285 / 10000
+	Test Data: 9179 / 10000
+Epoch 23:
+	Validation Data: 9254 / 10000
+	Test Data: 9160 / 10000
+Epoch 24:
+	Validation Data: 9304 / 10000
+	Test Data: 9247 / 10000
+Epoch 25:
+	Validation Data: 9395 / 10000
+	Test Data: 9254 / 10000
+Epoch 26:
+	Validation Data: 9363 / 10000
+	Test Data: 9243 / 10000
+Epoch 27:
+	Validation Data: 9428 / 10000
+	Test Data: 9353 / 10000
+Epoch 28:
+	Validation Data: 9334 / 10000
+	Test Data: 9252 / 10000
+Epoch 29:
+	Validation Data: 9342 / 10000
+	Test Data: 9248 / 10000
+Epoch 30:
+	Validation Data: 9351 / 10000
+	Test Data: 9312 / 10000
+Epoch 31:
+	Validation Data: 9379 / 10000
+	Test Data: 9306 / 10000
+Epoch 32:
+	Validation Data: 9329 / 10000
+	Test Data: 9296 / 10000
+Epoch 33:
+	Validation Data: 9319 / 10000
+	Test Data: 9281 / 10000
+Epoch 34:
+	Validation Data: 9352 / 10000
+	Test Data: 9277 / 10000
+Epoch 35:
+	Validation Data: 9239 / 10000
+	Test Data: 9143 / 10000
+Epoch 36:
+	Validation Data: 9370 / 10000
+	Test Data: 9304 / 10000
+Epoch 37:
+	Validation Data: 9396 / 10000
+	Test Data: 9326 / 10000
+Epoch 38:
+	Validation Data: 9328 / 10000
+	Test Data: 9236 / 10000
+Epoch 39:
+	Validation Data: 9294 / 10000
+	Test Data: 9233 / 10000
+Epoch 40:
+	Validation Data: 9337 / 10000
+	Test Data: 9291 / 10000
+Epoch 41:
+	Validation Data: 9408 / 10000
+	Test Data: 9368 / 10000
+Epoch 42:
+	Validation Data: 9315 / 10000
+	Test Data: 9264 / 10000
+Epoch 43:
+	Validation Data: 9294 / 10000
+	Test Data: 9187 / 10000
+Epoch 44:
+	Validation Data: 9255 / 10000
+	Test Data: 9260 / 10000
+Epoch 45:
+	Validation Data: 9403 / 10000
+	Test Data: 9342 / 10000
+Epoch 46:
+	Validation Data: 9406 / 10000
+	Test Data: 9387 / 10000
+Epoch 47:
+	Validation Data: 9420 / 10000
+	Test Data: 9340 / 10000
+Epoch 48:
+	Validation Data: 9387 / 10000
+	Test Data: 9333 / 10000
+Epoch 49:
+	Validation Data: 9425 / 10000
+	Test Data: 9341 / 10000
+Epoch 50:
+	Validation Data: 9440 / 10000
+	Test Data: 9369 / 10000
+Epoch 51:
+	Validation Data: 9429 / 10000
+	Test Data: 9400 / 10000
+Epoch 52:
+	Validation Data: 9278 / 10000
+	Test Data: 9256 / 10000
+Epoch 53:
+	Validation Data: 9380 / 10000
+	Test Data: 9305 / 10000
+Epoch 54:
+	Validation Data: 9385 / 10000
+	Test Data: 9355 / 10000
+Epoch 55:
+	Validation Data: 9445 / 10000
+	Test Data: 9410 / 10000
+Epoch 56:
+	Validation Data: 9419 / 10000
+	Test Data: 9361 / 10000
+Epoch 57:
+	Validation Data: 9471 / 10000
+	Test Data: 9409 / 10000
+Epoch 58:
+	Validation Data: 9379 / 10000
+	Test Data: 9304 / 10000
+Epoch 59:
+	Validation Data: 9367 / 10000
+	Test Data: 9329 / 10000
+Epoch 60:
+	Validation Data: 9490 / 10000
+	Test Data: 9416 / 10000
+Epoch 61:
+	Validation Data: 9474 / 10000
+	Test Data: 9448 / 10000
+Epoch 62:
+	Validation Data: 9396 / 10000
+	Test Data: 9353 / 10000
+Epoch 63:
+	Validation Data: 9447 / 10000
+	Test Data: 9383 / 10000
+Epoch 64:
+	Validation Data: 9448 / 10000
+	Test Data: 9416 / 10000
+Epoch 65:
+	Validation Data: 9427 / 10000
+	Test Data: 9409 / 10000
+Epoch 66:
+	Validation Data: 9433 / 10000
+	Test Data: 9370 / 10000
+Epoch 67:
+	Validation Data: 9502 / 10000
+	Test Data: 9414 / 10000
+Epoch 68:
+	Validation Data: 9479 / 10000
+	Test Data: 9437 / 10000
+Epoch 69:
+	Validation Data: 9479 / 10000
+	Test Data: 9434 / 10000
+Epoch 70:
+	Validation Data: 9326 / 10000
+	Test Data: 9301 / 10000
+Epoch 71:
+	Validation Data: 9433 / 10000
+	Test Data: 9366 / 10000
+Epoch 72:
+	Validation Data: 9407 / 10000
+	Test Data: 9376 / 10000
+Epoch 73:
+	Validation Data: 9427 / 10000
+	Test Data: 9375 / 10000
+Epoch 74:
+	Validation Data: 9464 / 10000
+	Test Data: 9417 / 10000
+End Time:2018-02-17 15:46:40.751090
+
+Iteration: 4
+Start Time:2018-02-17 15:46:40.751144
+Epoch 0:
+	Validation Data: 5433 / 10000
+	Test Data: 5349 / 10000
+Epoch 1:
+	Validation Data: 5730 / 10000
+	Test Data: 5729 / 10000
+Epoch 2:
+	Validation Data: 6517 / 10000
+	Test Data: 6393 / 10000
+Epoch 3:
+	Validation Data: 6692 / 10000
+	Test Data: 6622 / 10000
+Epoch 4:
+	Validation Data: 6616 / 10000
+	Test Data: 6550 / 10000
+Epoch 5:
+	Validation Data: 6718 / 10000
+	Test Data: 6593 / 10000
+Epoch 6:
+	Validation Data: 7491 / 10000
+	Test Data: 7463 / 10000
+Epoch 7:
+	Validation Data: 7456 / 10000
+	Test Data: 7474 / 10000
+Epoch 8:
+	Validation Data: 7390 / 10000
+	Test Data: 7334 / 10000
+Epoch 9:
+	Validation Data: 7330 / 10000
+	Test Data: 7315 / 10000
+Epoch 10:
+	Validation Data: 7433 / 10000
+	Test Data: 7376 / 10000
+Epoch 11:
+	Validation Data: 7404 / 10000
+	Test Data: 7370 / 10000
+Epoch 12:
+	Validation Data: 7473 / 10000
+	Test Data: 7436 / 10000
+Epoch 13:
+	Validation Data: 7431 / 10000
+	Test Data: 7399 / 10000
+Epoch 14:
+	Validation Data: 7447 / 10000
+	Test Data: 7432 / 10000
+Epoch 15:
+	Validation Data: 7422 / 10000
+	Test Data: 7398 / 10000
+Epoch 16:
+	Validation Data: 7457 / 10000
+	Test Data: 7450 / 10000
+Epoch 17:
+	Validation Data: 7446 / 10000
+	Test Data: 7433 / 10000
+Epoch 18:
+	Validation Data: 7502 / 10000
+	Test Data: 7437 / 10000
+Epoch 19:
+	Validation Data: 7591 / 10000
+	Test Data: 7560 / 10000
+Epoch 20:
+	Validation Data: 7693 / 10000
+	Test Data: 7690 / 10000
+Epoch 21:
+	Validation Data: 7656 / 10000
+	Test Data: 7643 / 10000
+Epoch 22:
+	Validation Data: 7658 / 10000
+	Test Data: 7575 / 10000
+Epoch 23:
+	Validation Data: 7421 / 10000
+	Test Data: 7410 / 10000
+Epoch 24:
+	Validation Data: 7668 / 10000
+	Test Data: 7662 / 10000
+Epoch 25:
+	Validation Data: 7626 / 10000
+	Test Data: 7625 / 10000
+Epoch 26:
+	Validation Data: 7472 / 10000
+	Test Data: 7462 / 10000
+Epoch 27:
+	Validation Data: 7530 / 10000
+	Test Data: 7517 / 10000
+Epoch 28:
+	Validation Data: 7644 / 10000
+	Test Data: 7677 / 10000
+Epoch 29:
+	Validation Data: 7639 / 10000
+	Test Data: 7626 / 10000
+Epoch 30:
+	Validation Data: 7824 / 10000
+	Test Data: 7924 / 10000
+Epoch 31:
+	Validation Data: 7713 / 10000
+	Test Data: 7743 / 10000
+Epoch 32:
+	Validation Data: 7763 / 10000
+	Test Data: 7782 / 10000
+Epoch 33:
+	Validation Data: 7800 / 10000
+	Test Data: 7843 / 10000
+Epoch 34:
+	Validation Data: 7716 / 10000
+	Test Data: 7706 / 10000
+Epoch 35:
+	Validation Data: 7801 / 10000
+	Test Data: 7851 / 10000
+Epoch 36:
+	Validation Data: 7742 / 10000
+	Test Data: 7782 / 10000
+Epoch 37:
+	Validation Data: 8651 / 10000
+	Test Data: 8665 / 10000
+Epoch 38:
+	Validation Data: 8875 / 10000
+	Test Data: 8859 / 10000
+Epoch 39:
+	Validation Data: 8974 / 10000
+	Test Data: 8992 / 10000
+Epoch 40:
+	Validation Data: 8979 / 10000
+	Test Data: 8973 / 10000
+Epoch 41:
+	Validation Data: 9145 / 10000
+	Test Data: 9191 / 10000
+Epoch 42:
+	Validation Data: 9135 / 10000
+	Test Data: 9132 / 10000
+Epoch 43:
+	Validation Data: 9250 / 10000
+	Test Data: 9207 / 10000
+Epoch 44:
+	Validation Data: 9336 / 10000
+	Test Data: 9291 / 10000
+Epoch 45:
+	Validation Data: 9260 / 10000
+	Test Data: 9270 / 10000
+Epoch 46:
+	Validation Data: 9298 / 10000
+	Test Data: 9313 / 10000
+Epoch 47:
+	Validation Data: 9153 / 10000
+	Test Data: 9087 / 10000
+Epoch 48:
+	Validation Data: 9309 / 10000
+	Test Data: 9284 / 10000
+Epoch 49:
+	Validation Data: 9283 / 10000
+	Test Data: 9240 / 10000
+Epoch 50:
+	Validation Data: 9325 / 10000
+	Test Data: 9293 / 10000
+Epoch 51:
+	Validation Data: 9377 / 10000
+	Test Data: 9303 / 10000
+Epoch 52:
+	Validation Data: 9256 / 10000
+	Test Data: 9225 / 10000
+Epoch 53:
+	Validation Data: 9351 / 10000
+	Test Data: 9346 / 10000
+Epoch 54:
+	Validation Data: 9401 / 10000
+	Test Data: 9359 / 10000
+Epoch 55:
+	Validation Data: 9344 / 10000
+	Test Data: 9315 / 10000
+Epoch 56:
+	Validation Data: 9337 / 10000
+	Test Data: 9308 / 10000
+Epoch 57:
+	Validation Data: 9367 / 10000
+	Test Data: 9372 / 10000
+Epoch 58:
+	Validation Data: 9290 / 10000
+	Test Data: 9341 / 10000
+Epoch 59:
+	Validation Data: 9356 / 10000
+	Test Data: 9363 / 10000
+Epoch 60:
+	Validation Data: 9319 / 10000
+	Test Data: 9338 / 10000
+Epoch 61:
+	Validation Data: 9371 / 10000
+	Test Data: 9342 / 10000
+Epoch 62:
+	Validation Data: 9373 / 10000
+	Test Data: 9385 / 10000
+Epoch 63:
+	Validation Data: 9452 / 10000
+	Test Data: 9427 / 10000
+Epoch 64:
+	Validation Data: 9441 / 10000
+	Test Data: 9433 / 10000
+Epoch 65:
+	Validation Data: 9388 / 10000
+	Test Data: 9318 / 10000
+Epoch 66:
+	Validation Data: 9415 / 10000
+	Test Data: 9377 / 10000
+Epoch 67:
+	Validation Data: 9323 / 10000
+	Test Data: 9310 / 10000
+Epoch 68:
+	Validation Data: 9462 / 10000
+	Test Data: 9448 / 10000
+Epoch 69:
+	Validation Data: 9413 / 10000
+	Test Data: 9374 / 10000
+Epoch 70:
+	Validation Data: 9386 / 10000
+	Test Data: 9356 / 10000
+Epoch 71:
+	Validation Data: 9442 / 10000
+	Test Data: 9440 / 10000
+Epoch 72:
+	Validation Data: 9257 / 10000
+	Test Data: 9226 / 10000
+Epoch 73:
+	Validation Data: 9434 / 10000
+	Test Data: 9416 / 10000
+Epoch 74:
+	Validation Data: 9473 / 10000
+	Test Data: 9441 / 10000
+End Time:2018-02-17 16:01:35.487660

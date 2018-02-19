@@ -7,46 +7,64 @@ A module to implement the network.py class.
 
 import mnist_loader
 import network
-import datetime
+from datetime import datetime, date
 import logger
 
 # NETWORK 1 IMPLEMENTATION
 
-log_file_name = "Batch Size Test"
+log_file_name = "DataCollected/Number of Layers H100B8.txt"
+log = logger.Logger(log_file_name, True)
 
 for x in range(0, 5):
     if x == 0:
+        networkLayout = [784, 50, 50, 10]
+        number_of_epochs = 75
         mini_batch_size = 8
+        learning_rate = 3.0
+        number_of_runs = 5
+
     elif x == 1:
-        mini_batch_size = 16
+        networkLayout = [784, 60, 40, 10]
+        number_of_epochs = 75
+        mini_batch_size = 8
+        learning_rate = 3.0
+        number_of_runs = 5
+
     elif x == 2:
-        mini_batch_size = 32
+        networkLayout = [784, 75, 25, 10]
+        number_of_epochs = 75
+        mini_batch_size = 8
+        learning_rate = 3.0
+        number_of_runs = 5
+
     elif x == 3:
-        mini_batch_size = 64
+        networkLayout = [784, 50, 30, 20, 10]
+        number_of_epochs = 75
+        mini_batch_size = 8
+        learning_rate = 3.0
+        number_of_runs = 5
+
     elif x == 4:
-        mini_batch_size = 128
+        networkLayout = [784, 25, 25, 25, 25, 10]
+        number_of_epochs = 75
+        mini_batch_size = 8
+        learning_rate = 3.0
+        number_of_runs = 5
 
-    # Network layers
-    input_layer = 784
-    hidden_layer = 100
-    output_layer = 10
+    log.log_line("\n\nSet: " + str(x))
+    print "Set: " + str(x)
 
-    # Training Data
-    number_of_epochs = 75
-    # mini_batch_size = 10
-    learning_rate = 3.0
-    number_of_runs = 5
-
-    log = logger.Logger(log_file_name, True)
-
-    # Start timestamp
-    log.log_line('Network Details:\n\nNumber of Layers: '+str(3)+'\nNumber of Neurons in Hidden Layer: '+str(hidden_layer)+\
-          '\nNumber of Epochs: '+str(number_of_epochs)+'\nBatch Size: '+str(mini_batch_size)+\
-          '\nLearning Rate:'+str(learning_rate)+'\nNumber of Runs: '+str(number_of_runs))
+    log.log_line('\n\t\tNetwork Details\nNetwork layout: '+str(networkLayout)+ '\nNumber of Epochs: '+
+                 str(number_of_epochs)+'\nBatch Size: '+str(mini_batch_size)+
+                 '\nLearning Rate: '+str(learning_rate)+'\nNumber of Runs: '+str(number_of_runs))
 
     for x in range(0, number_of_runs):
-        log.log_line("\n\nRun: "+str(x))
-        log.log_line('\nStart Time:'+str(datetime.datetime.now().time()))
+        log.log_line("\n\nIteration: "+str(x))
+        print "Iteration: "+str(x)
+
+        # Start timestamp
+        startTime = datetime.today()
+        log.log_line('\nStart Time:'+str(startTime))
 
         # Loading MNIST data
             # training_data: Training input and desired outputs
@@ -59,15 +77,16 @@ for x in range(0, 5):
             # input_layer: Number of neurons in first layer
             # hidden_layer: Number of neurons in the hidden layer
             # output_layer: Number of neurons in the output layer
-        net = network.Network([input_layer, hidden_layer, output_layer], log)
+        net = network.Network(networkLayout, log)
 
         # Stochastic Gradient Descent
 
-        net.SGD(training_data, number_of_epochs, mini_batch_size, learning_rate, test_data=test_data)
+        net.SGD(training_data, number_of_epochs, mini_batch_size, learning_rate, test_data=test_data,
+                validation_data=validation_data)
 
         #  End Timestamp
-        log.log_line('\nEnd Time: '+str(datetime.datetime.now().time()))
+        endTime = datetime.today()
+
+        log.log_line('\nEnd Time:'+str(endTime))
 
 log.close()
-
-#  NETWORK 2 IMPLEMENTATION
